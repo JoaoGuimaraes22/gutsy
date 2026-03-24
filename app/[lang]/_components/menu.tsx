@@ -42,32 +42,34 @@ const cardVariants = {
 function ItemCard({ item }: { item: MenuItem }) {
   return (
     <motion.div
-      className="group overflow-hidden rounded-2xl border border-zinc-100 bg-white shadow-sm flex flex-col"
+      className="group mt-12 flex flex-col"
       variants={cardVariants}
-      whileHover={{ y: -4, boxShadow: "0 12px 36px 0 rgba(0,0,0,0.12)" }}
+      whileHover={{ y: -6 }}
     >
-      <div className="relative h-40 w-full overflow-hidden bg-zinc-100">
+      {/* Image popping out above the card */}
+      <div className="relative z-10 flex justify-center" style={{ filter: "drop-shadow(0 4px 6px rgba(0,0,0,0.15)) drop-shadow(0 12px 24px rgba(0,0,0,0.12))" }}>
         {item.image && (
           // eslint-disable-next-line @next/next/no-img-element
           <img
             src={item.image}
             alt={item.name}
             loading="lazy"
-            className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
+            className="relative h-36 w-auto max-w-[75%] rounded-t-xl object-contain transition-transform duration-500 group-hover:scale-110 group-hover:-rotate-2"
             onError={(e) => {
-              const el = e.currentTarget as HTMLImageElement;
-              el.parentElement?.classList.add("bg-zinc-100");
-              el.style.display = "none";
+              (e.currentTarget as HTMLImageElement).style.display = "none";
             }}
           />
         )}
       </div>
-      <div className="flex flex-1 items-end justify-between gap-3 p-4">
-        <div className="min-w-0">
-          <h3 className="font-semibold text-zinc-900">{item.name}</h3>
-          <p className="mt-0.5 text-sm text-zinc-500 line-clamp-2">{item.description}</p>
+      {/* Card body — pulled up so image overlaps */}
+      <div className="-mt-10 overflow-hidden rounded-2xl border border-zinc-100 bg-white pt-12 shadow-sm shadow-zinc-200/50 transition-shadow duration-300 group-hover:shadow-lg">
+        <div className="flex items-end justify-between gap-3 px-4 pb-4">
+          <div className="min-w-0">
+            <h3 className="font-semibold text-zinc-900">{item.name}</h3>
+            <p className="mt-0.5 text-sm text-zinc-500 line-clamp-2">{item.description}</p>
+          </div>
+          <span className="shrink-0 text-base font-black text-zinc-800">{item.price}</span>
         </div>
-        <span className="shrink-0 text-base font-black text-zinc-800">{item.price}</span>
       </div>
     </motion.div>
   );
@@ -127,7 +129,7 @@ export default function Menu({ dict }: { dict: MenuDict }) {
           {activeCategory && (
             <motion.div
               key={activeKey}
-              className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3"
+              className="grid gap-x-4 gap-y-2 sm:grid-cols-2 lg:grid-cols-3"
               variants={gridVariants}
               initial="hidden"
               animate="visible"
@@ -151,7 +153,6 @@ export default function Menu({ dict }: { dict: MenuDict }) {
                           if (el.parentElement) el.parentElement.style.display = "none";
                         }}
                       />
-                      <div className="absolute inset-0 bg-linear-to-t from-zinc-900/70 to-transparent" />
                     </div>
                   )}
                   <div className="p-6">
