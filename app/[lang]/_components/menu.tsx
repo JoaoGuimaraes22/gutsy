@@ -95,7 +95,7 @@ export default function Menu({ dict }: { dict: MenuDict }) {
         </motion.div>
 
         <motion.div
-          className="mb-10 flex gap-1 overflow-x-auto pb-1"
+          className="mb-10 flex gap-1 overflow-x-auto pb-1 lg:flex-wrap lg:justify-center lg:overflow-x-visible"
           style={{ scrollbarWidth: "none", msOverflowStyle: "none" }}
           initial={{ opacity: 0, y: 16 }}
           whileInView={{ opacity: 1, y: 0 }}

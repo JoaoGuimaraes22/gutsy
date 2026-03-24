@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "My Site",
-    "description": "Welcome to my site."
+    "title": "Gutsy – Artisan Burgers & Cocktails | Carcavelos",
+    "description": "Artisan burgers with quality ingredients, cocktails, and good vibes in Carcavelos. Vegetarian options, outdoor seating, and free parking. Book a Table."
   },
   "home": {
     "title": "Welcome",
@@ -42,42 +42,42 @@
     ]
   },
   "hero": {
-    "title_line1": "BOLD",
+    "title_line1": "ARTISAN",
     "title_line2": "BURGERS",
-    "tagline": "Smash-style burgers made with local beef, fresh-baked buns, and zero compromises. Lisbon's favourite fast-casual.",
+    "tagline": "Artisan burgers crafted with quality ingredients, cocktails, and enjoyable moments with friends and family. Carcavelos' favourite burger house.",
     "cta": "Book a Table",
     "cta_secondary": "See Menu",
     "stats": [
       {
-        "value": "50K+",
-        "label": "Burgers Smashed"
+        "value": "88+",
+        "label": "Reviews"
       },
       {
-        "value": "4.9★",
-        "label": "Google Rating"
+        "value": "4.1★",
+        "label": "Rating"
       },
       {
-        "value": "5+",
-        "label": "Years in Lisbon"
+        "value": "30+",
+        "label": "Menu Items"
       }
     ]
   },
   "about": {
-    "title_line1": "REAL",
-    "title_line2": "FOOD",
-    "body": "We started Gutsy because we were tired of bad burgers. Thin patties, soggy buns, mystery meat — we said no thanks.\n\nEvery Gutsy burger is made with 100% local beef, smashed to order on a screaming hot griddle, and served on a fresh bun baked down the street. Simple. Honest. Delicious.",
+    "title_line1": "OUR",
+    "title_line2": "STORY",
+    "body": "At Gutsy, we craft artisan burgers with the finest ingredients — 100% beef, São Jorge island cheese, local produce, and freshly baked buns. Every burger is made with care and served with pride in the heart of Carcavelos.\n\nBut we offer more than food — we offer enjoyable moments with friends and family. Life passes in an instant. Enjoy that moment with those you love. Pair your burger with one of our signature cocktails and settle in on our outdoor terrace.",
     "stats": [
       {
-        "value": "2020",
-        "label": "Founded"
+        "value": "88+",
+        "label": "Reviews"
       },
       {
-        "value": "50K+",
-        "label": "Burgers Smashed"
+        "value": "4.1★",
+        "label": "Rating"
       },
       {
-        "value": "4.9★",
-        "label": "Google Rating"
+        "value": "30+",
+        "label": "Menu Items"
       }
     ]
   },
@@ -86,34 +86,34 @@
     "title_line2": "GUTSY",
     "items": [
       {
-        "icon": "🔥",
-        "title": "Smash Style",
-        "description": "Pressed thin on a screaming hot griddle for maximum crust and flavour in every bite."
+        "icon": "🍔",
+        "title": "Artisan Burgers",
+        "description": "Handcrafted burgers with 100% beef, São Jorge cheese, and quality local ingredients — never mass-produced."
       },
       {
-        "icon": "🥩",
-        "title": "Local Beef",
-        "description": "100% Portuguese beef sourced from local farms. No fillers, no freezing, ever."
+        "icon": "🍹",
+        "title": "Cocktails & Drinks",
+        "description": "Mojitos, Negronis, Aperol Spritz, Caipirinhas, and more — a full cocktail menu to complement your meal."
       },
       {
-        "icon": "🍞",
-        "title": "Fresh Buns Daily",
-        "description": "Our brioche buns are baked every morning by a local bakery just around the corner."
+        "icon": "🌱",
+        "title": "Vegetarian & Vegan",
+        "description": "Tofu and Seitan burgers, veggie wraps, and fresh salads — everyone eats well at Gutsy."
       },
       {
-        "icon": "⚡",
-        "title": "Fast & Fresh",
-        "description": "Ready in under 10 minutes. Hot, fresh, and built to order — every single time."
+        "icon": "☀️",
+        "title": "Outdoor Seating",
+        "description": "Enjoy your meal on our terrace in the heart of Carcavelos, with free WiFi and a relaxed atmosphere."
       },
       {
-        "icon": "🛵",
-        "title": "Fast Delivery",
-        "description": "Order online or via Glovo and Uber Eats. Hot to your door, faster than you think."
+        "icon": "👶",
+        "title": "Kid-Friendly",
+        "description": "Highchairs available, a dedicated kids menu with mini burgers, and a welcoming family atmosphere."
       },
       {
-        "icon": "🥤",
-        "title": "House Specials",
-        "description": "Unique sauces, thick shakes, and loaded fries you won't find anywhere else in the city."
+        "icon": "📱",
+        "title": "Easy Reservations",
+        "description": "Book your table directly on our website. Walk-ins also welcome — free parking available nearby."
       }
     ]
   },
@@ -171,62 +171,62 @@
     "title_line2": "QUESTIONS",
     "items": [
       {
-        "question": "Do you offer delivery?",
-        "answer": "Yes! Order directly on our site or through Glovo and Uber Eats. We deliver within a 5km radius of our restaurant."
+        "question": "How do I book a table?",
+        "answer": "You can book directly on our website or call us at +351 21 828 5795. Walk-ins are also welcome — we're happy to seat you if there's space."
       },
       {
         "question": "Are there vegetarian options?",
-        "answer": "Absolutely. Our Fungi Burger features a plant-based patty and all the same bold toppings. Delicious without the beef."
-      },
-      {
-        "question": "Can I book a table?",
-        "answer": "Walk-ins are always welcome. For groups of 6 or more, we recommend calling ahead so we can reserve the right space for you."
+        "answer": "Absolutely. We have Tofu and Seitan burgers, a Vegetable Wrap, and several fresh salads. There's something for everyone."
       },
       {
         "question": "What are your opening hours?",
-        "answer": "Monday to Thursday 12pm–10pm, Friday and Saturday 12pm–11pm, Sunday 12pm–9pm. Kitchen closes 30 minutes before closing."
+        "answer": "Monday to Thursday 12:00–23:00, Friday and Saturday 12:00–23:30, Sunday 12:00–23:00."
       },
       {
-        "question": "Do you cater events?",
-        "answer": "Yes! We handle group orders and private events. Get in touch via our contact form and we'll sort out the details."
+        "question": "Do you have parking?",
+        "answer": "Yes! We have free off-street parking available near the restaurant."
       },
       {
-        "question": "Are your ingredients always fresh?",
-        "answer": "Always. We prep fresh every single day and never freeze our patties. If we run out, we run out — that's the deal."
+        "question": "Is there outdoor seating?",
+        "answer": "Yes, we have a lovely outdoor terrace. It's the perfect spot for a relaxed meal in Carcavelos, especially on sunny days."
+      },
+      {
+        "question": "Is Gutsy kid-friendly?",
+        "answer": "Absolutely. We have highchairs, a kids menu with mini burgers and a drink, and a welcoming atmosphere for families."
       }
     ]
   },
   "contact": {
     "title_line1": "COME",
     "title_line2": "FIND US",
-    "body": "Got a question, a big order, or just want to say hi? Reach out — we're friendly.",
+    "body": "Got a question, a big group, or just want to say hi? Reach out — we're friendly. Find us on Instagram @gutsyoriginal and Facebook /GutsyOriginal.",
     "book_cta": "Book a Table",
-    "order_cta": "Order Online",
-    "phone": "+351 912 345 678",
-    "email": "hello@gutsy.pt",
-    "address": "Rua do Ouro 45, 1100-060 Lisboa",
-    "hours": "Mon–Thu 12pm–10pm · Fri–Sat 12pm–11pm · Sun 12pm–9pm",
-    "map_link": "https://maps.google.com/?q=Rua+do+Ouro+45+Lisboa",
-    "order_url": "https://gutsy.pt/order",
+    "order_cta": "Order on Uber Eats",
+    "phone": "+351 21 828 5795",
+    "email": "gutsyoriginalpt@gmail.com",
+    "address": "Praça Do Junqueiro 6B, 2775-597 Carcavelos",
+    "hours": "Mon–Thu 12:00–23:00 · Fri–Sat 12:00–23:30 · Sun 12:00–23:00",
+    "map_link": "https://maps.google.com/?q=Praça+Do+Junqueiro+6B+Carcavelos",
+    "order_url": "https://www.ubereats.com/pt/store/gutsy-carcavelos/6hCviMoCWMepsbAN5RdGGg",
     "map": {
-      "address": "Rua do Ouro 45\n1100-060 Lisboa",
-      "mapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3113.2!2d-9.138!3d38.709!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sRua+do+Ouro+45+Lisboa!5e0!3m2!1sen!2spt!4v1",
-      "mapTitle": "Gutsy Burgers location"
+      "address": "Praça Do Junqueiro 6B\n2775-597 Carcavelos",
+      "mapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3113.2!2d-9.338!3d38.683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sPraça+Do+Junqueiro+6B+Carcavelos!5e0!3m2!1sen!2spt!4v1",
+      "mapTitle": "Gutsy – Artisan Burgers & Cocktails location"
     }
   },
   "footer": {
     "brand": "Gutsy",
-    "tagline": "Smash burgers made with local beef and zero compromises.",
-    "address": "Rua do Ouro 45, 1100-060 Lisboa",
-    "hours": "Mon–Thu 12pm–10pm · Fri–Sat 12pm–11pm",
-    "phone": "+351 912 345 678",
-    "email": "hello@gutsy.pt",
-    "copyright": "© 2025 Gutsy Burgers. All rights reserved.",
+    "tagline": "Artisan burgers, cocktails, and enjoyable moments in Carcavelos.",
+    "address": "Praça Do Junqueiro 6B, 2775-597 Carcavelos",
+    "hours": "Mon–Thu 12:00–23:00 · Fri–Sat 12:00–23:30 · Sun 12:00–23:00",
+    "phone": "+351 21 828 5795",
+    "email": "gutsyoriginalpt@gmail.com",
+    "copyright": "© 2025 Gutsy – Hambúrguer Artesanal & Cocktails. All rights reserved.",
     "book_cta": "Book a Table",
     "explore_label": "Explore",
     "hours_label": "Hours",
     "find_us_label": "Find Us",
-    "made_in": "Made in Lisbon",
+    "made_in": "Made in Carcavelos",
     "nav_links": [
       {
         "id": "about",
@@ -252,73 +252,319 @@
   },
   "menu": {
     "title": "Our Menu",
-    "subtitle": "Fresh patties, local beef, baked-daily buns — built to order",
+    "subtitle": "Artisan burgers, fresh cocktails, wraps & salads — crafted with quality ingredients",
     "chefs_pick": "Chef's Pick",
     "categories": [
       {
-        "key": "burgers",
-        "label": "Burgers",
+        "key": "burgers-meat",
+        "label": "Burgers – Meat",
         "highlight_image": "/menu/burgers.jpg",
         "items": [
           {
-            "name": "The OG",
-            "description": "Double smash patty, American cheese, special sauce, pickles, white onion",
-            "price": "€12",
-            "image": "/menu/burger-og.jpg"
+            "name": "Courageous",
+            "description": "100% beef, São Jorge island cheese, jalapeño peppers, arugula, fresh tomato on seeded bun",
+            "price": "~€10",
+            "image": "/menu/burger-courageous.jpg"
           },
           {
-            "name": "Gutsy Classic",
-            "description": "Single patty, lettuce, tomato, red onion, mustard, ketchup",
-            "price": "€10",
-            "image": "/menu/burger-gutsy-classic.jpg"
+            "name": "Adventurous",
+            "description": "100% beef, São Jorge island cheese, dried tomato, basil pesto, arugula, tomato on seeded bun",
+            "price": "~€10",
+            "image": "/menu/burger-adventurous.jpg"
           },
           {
-            "name": "The Smoky",
-            "description": "Double patty, bacon, smoked cheddar, BBQ sauce, crispy fried onions",
-            "price": "€13",
-            "image": "/menu/burger-smoky.jpg"
+            "name": "Sassy",
+            "description": "100% beef, game meat paste (alheira sausage), collard greens, fried egg on seeded bun",
+            "price": "~€10",
+            "image": "/menu/burger-sassy.jpg"
           },
           {
-            "name": "Fungi Burger",
-            "description": "Sautéed mushrooms, Swiss cheese, truffle mayo, rocket — plant-based patty available",
-            "price": "€13",
-            "image": "/menu/burger-fungi.jpg"
+            "name": "Irreverent",
+            "description": "100% beef, portobello mushrooms, sautéed vegetables, arugula, tomato on seeded bun",
+            "price": "~€10",
+            "image": "/menu/burger-irreverent.jpg"
           },
           {
-            "name": "Spicy Diablo",
-            "description": "Double patty, jalapeños, pepper jack, sriracha mayo, pickled red onion",
-            "price": "€13",
-            "image": "/menu/burger-spicy-diablo.jpg"
+            "name": "Bold",
+            "description": "100% beef, bacon, cheddar cheese, arugula, tomato on seeded bun",
+            "price": "~€10",
+            "image": "/menu/burger-bold.jpg"
+          },
+          {
+            "name": "Intense",
+            "description": "100% beef, goat cheese, caramelized red onion, honey, arugula, tomato on seeded bun",
+            "price": "~€10",
+            "image": "/menu/burger-intense.jpg"
+          },
+          {
+            "name": "Brave",
+            "description": "100% beef, flamengo cheese, ham, arugula, balsamic vinaigrette on seeded bun",
+            "price": "~€10",
+            "image": "/menu/burger-brave.jpg"
+          },
+          {
+            "name": "Simple",
+            "description": "100% beef, arugula, tomato on seeded bun",
+            "price": "~€10",
+            "image": "/menu/burger-simple.jpg"
+          },
+          {
+            "name": "Daring",
+            "description": "100% picanha beef, cheddar cheese, fried egg, arugula, tomato on seeded bun",
+            "price": "~€10",
+            "image": "/menu/burger-daring.jpg"
+          },
+          {
+            "name": "Valente",
+            "description": "100% beef, cheddar cheese, arugula, fresh tomato, fried egg on bun",
+            "price": "~€10",
+            "image": "/menu/burger-valente.jpg"
+          },
+          {
+            "name": "Arrojado",
+            "description": "100% beef, tuscan sausage, onions, whisky sauce, crispy onions on brioche",
+            "price": "~€10",
+            "image": "/menu/burger-arrojado.jpg"
+          },
+          {
+            "name": "Empoderada",
+            "description": "100% beef, São Jorge island cheese, cheddar, grilled pineapple, vinaigrette, Madeira banana",
+            "price": "€11.95",
+            "image": "/menu/burger-empoderada.jpg"
           }
         ]
       },
       {
-        "key": "sides",
-        "label": "Sides",
+        "key": "burgers-fish",
+        "label": "Burgers – Fish",
         "items": [
           {
-            "name": "Smash Fries",
-            "description": "Double-fried crispy fries with house seasoning and sea salt",
-            "price": "€4",
-            "image": "/menu/sides-smash-fries.jpg"
+            "name": "Fearless",
+            "description": "Salmon & prawn burger, dill, chives, arugula, tomato on bolo do caco bun",
+            "price": "~€10",
+            "image": "/menu/burger-fearless.jpg"
           },
           {
-            "name": "Loaded Fries",
-            "description": "Crispy fries with cheese sauce, bacon bits and spring onion",
-            "price": "€7",
-            "image": "/menu/sides-loaded-fries.jpg"
+            "name": "Charming",
+            "description": "Broiled salmon & prawn, green & purple lettuce, cherry tomatoes, avocado, dill olive oil",
+            "price": "~€10",
+            "image": "/menu/burger-charming.jpg"
           },
           {
-            "name": "Onion Rings",
-            "description": "Beer-battered rings with chipotle dipping sauce",
-            "price": "€5",
-            "image": "/menu/sides-onion-rings.jpg"
+            "name": "Codfish Burger",
+            "description": "Codfish burger, sautéed greens, olive, garlic & coriander mayonnaise on seeded bun",
+            "price": "~€10",
+            "image": "/menu/burger-codfish.jpg"
+          }
+        ]
+      },
+      {
+        "key": "burgers-vegetarian",
+        "label": "Burgers – Vegetarian",
+        "items": [
+          {
+            "name": "Tofu",
+            "description": "Tofu burger, red onion, arugula, tomato on seeded bun",
+            "price": "~€10",
+            "image": "/menu/burger-tofu.jpg"
           },
           {
-            "name": "Coleslaw",
-            "description": "House-made with apple cider dressing and fresh herbs",
-            "price": "€3",
-            "image": "/menu/sides-coleslaw.jpg"
+            "name": "Seitan",
+            "description": "Seitan burger, sautéed vegetables, arugula, tomato on seeded bun",
+            "price": "~€10",
+            "image": "/menu/burger-seitan.jpg"
+          }
+        ]
+      },
+      {
+        "key": "specialties",
+        "label": "Specialties",
+        "items": [
+          {
+            "name": "Moulin Rouge",
+            "description": "100% Angus beef, iceberg lettuce, tomato, emmental, bacon, mustard & lemon sauce on brioche",
+            "price": "€12.50",
+            "image": "/menu/specialty-moulin-rouge.jpg"
+          },
+          {
+            "name": "Gutsy Special Junior",
+            "description": "100% Angus beef, arugula, tomato, flamengo cheese, bacon, baked ham, fried egg on brioche",
+            "price": "€11.90",
+            "image": "/menu/specialty-gutsy-junior.jpg"
+          },
+          {
+            "name": "Irreverente Saloio",
+            "description": "100% Angus beef, arugula, tomato, sheep buttered cheese, iberian ham, onion confit on brioche",
+            "price": "€12.50",
+            "image": "/menu/specialty-irreverente-saloio.jpg"
+          }
+        ]
+      },
+      {
+        "key": "cocktails",
+        "label": "Cocktails",
+        "items": [
+          {
+            "name": "Mojito",
+            "description": "Rum, lime juice, mint, sugar",
+            "price": "€6.50",
+            "image": "/menu/cocktail-mojito.jpg"
+          },
+          {
+            "name": "Caipirinha",
+            "description": "Cachaça, lime juice, sugar",
+            "price": "€6.50",
+            "image": "/menu/cocktail-caipirinha.jpg"
+          },
+          {
+            "name": "Caipiroska",
+            "description": "Vodka, lime juice, sugar",
+            "price": "€6.50",
+            "image": "/menu/cocktail-caipiroska.jpg"
+          },
+          {
+            "name": "Margarita Sour",
+            "description": "Tequila, lime juice, Cointreau, sugar",
+            "price": "€7.00",
+            "image": "/menu/cocktail-margarita-sour.jpg"
+          },
+          {
+            "name": "Strawberry Margarita",
+            "description": "Tequila, lime juice, strawberry, Cointreau, sugar",
+            "price": "€7.95",
+            "image": "/menu/cocktail-strawberry-margarita.jpg"
+          },
+          {
+            "name": "Negroni",
+            "description": "Gin, vermouth, Campari, orange",
+            "price": "€7.95",
+            "image": "/menu/cocktail-negroni.jpg"
+          },
+          {
+            "name": "Pisco Sour",
+            "description": "Pisco, lime juice, egg white, sugar, bitters",
+            "price": "€8.95",
+            "image": "/menu/cocktail-pisco-sour.jpg"
+          },
+          {
+            "name": "Sex on the Beach",
+            "description": "Vodka, orange juice, peach liqueur, grenadine",
+            "price": "€8.95",
+            "image": "/menu/cocktail-sex-on-the-beach.jpg"
+          },
+          {
+            "name": "Aperol Spritz",
+            "description": "Aperol, orange, prosecco, sparkling water",
+            "price": "€8.95",
+            "image": "/menu/cocktail-aperol-spritz.jpg"
+          },
+          {
+            "name": "Chola María",
+            "description": "Tequila, pisco, lime juice, tamarind, egg white, fresh basil",
+            "price": "€9.50",
+            "image": "/menu/cocktail-chola-maria.jpg"
+          }
+        ]
+      },
+      {
+        "key": "plates",
+        "label": "Burgers on Plates",
+        "items": [
+          {
+            "name": "Hambúrguer à Parmegiana",
+            "description": "Breaded & fried burger, homemade tomato sauce, mozzarella & parmesan gratin, with french fries",
+            "price": "€12.75",
+            "image": "/menu/plate-parmegiana.jpg"
+          },
+          {
+            "name": "Grilled Burger – Marrare Sauce",
+            "description": "Grilled burger, demi-glace & cream sauce, french fries & fried egg",
+            "price": "€12.75",
+            "image": "/menu/plate-marrare.jpg"
+          },
+          {
+            "name": "Grilled Burger – Mushroom Sauce",
+            "description": "Grilled burger, mixed forest mushroom sauce, french fries & fried egg",
+            "price": "€12.75",
+            "image": "/menu/plate-mushroom.jpg"
+          },
+          {
+            "name": "Grilled Burger – Mustard Sauce",
+            "description": "Grilled burger, old mustard demi-glace & cream sauce, french fries & fried egg",
+            "price": "€12.75",
+            "image": "/menu/plate-mustard.jpg"
+          }
+        ]
+      },
+      {
+        "key": "sharing",
+        "label": "To Share",
+        "items": [
+          {
+            "name": "Gutsy (Exaggerated)",
+            "description": "480g 100% beef, bacon, São Jorge cheese, baked ham, fried egg, gutsy mayo, arugula & tomato",
+            "price": "€24.95",
+            "image": "/menu/sharing-gutsy.jpg"
+          },
+          {
+            "name": "Family",
+            "description": "8 mini burgers: Corajoso, Aventureiro, Seitan, Irreverente, Audaz, Intenso, Destemido, Valente Chicken",
+            "price": "€29.95",
+            "image": "/menu/sharing-family.jpg"
+          },
+          {
+            "name": "Gutsy Family",
+            "description": "8 mini burgers: Courageous, Adventurous, Sassy, Irreverent, Bold, Intense, Fearless, Daring",
+            "price": "€29.95",
+            "image": "/menu/sharing-gutsy-family.jpg"
+          }
+        ]
+      },
+      {
+        "key": "wraps-salads",
+        "label": "Wraps & Salads",
+        "items": [
+          {
+            "name": "Vegetable Wrap",
+            "description": "Portobello mushrooms, sautéed vegetables, olive & garlic mayo, arugula, tomato",
+            "price": "~€9",
+            "image": "/menu/wrap-vegetable.jpg"
+          },
+          {
+            "name": "Chicken Wrap",
+            "description": "Breaded chicken strips, caesar sauce, avocado, mango, arugula",
+            "price": "~€9",
+            "image": "/menu/wrap-chicken.jpg"
+          },
+          {
+            "name": "Wrap",
+            "description": "Avocado, mango, arugula — choice of beef, chicken, salmon & prawn (+€1.30), or vegan",
+            "price": "€9.20",
+            "image": "/menu/wrap-classic.jpg"
+          },
+          {
+            "name": "Salmon Salad (Full)",
+            "description": "Smoked salmon, boiled egg, watercress, spinach, rocket, avocado, cherry tomatoes, coriander, croutons, EVOO & balsamic",
+            "price": "~€10",
+            "image": "/menu/salad-salmon.jpg"
+          },
+          {
+            "name": "Chicken Salad",
+            "description": "Chicken in yogurt sauce, watercress, spinach, rocket, feta, mint, chili, mango, avocado",
+            "price": "~€10",
+            "image": "/menu/salad-chicken.jpg"
+          },
+          {
+            "name": "New Summer Salad",
+            "description": "Lettuce, carrot, purple cabbage, mango, strawberry, peach, cherry tomatoes, fresh cheese, sesame, vinaigrette",
+            "price": "~€9",
+            "image": "/menu/salad-new-summer.jpg"
+          },
+          {
+            "name": "Kids Menu",
+            "description": "2 mini Simple burgers + drink (lemonade, water or soda) — children up to 12",
+            "price": "~€7",
+            "image": "/menu/kids-menu.jpg"
           }
         ]
       },
@@ -327,52 +573,136 @@
         "label": "Drinks",
         "items": [
           {
-            "name": "Thick Milkshake",
-            "description": "Vanilla, chocolate or strawberry — blended thick the way it should be",
-            "price": "€6",
-            "image": "/menu/drinks-milkshake.jpg"
+            "name": "Pint of Beer",
+            "description": "Draft beer, shandy or tango (beer + blackcurrant)",
+            "price": "~€3",
+            "image": "/menu/drinks-beer.jpg"
           },
           {
-            "name": "Craft Beer",
-            "description": "Local rotating tap selection, always fresh",
-            "price": "€4",
+            "name": "Craft Beer Bottle",
+            "description": "Rotating selection of craft beers",
+            "price": "~€4",
             "image": "/menu/drinks-craft-beer.jpg"
           },
           {
-            "name": "House Lemonade",
-            "description": "Fresh-squeezed with mint, served over ice",
-            "price": "€4",
+            "name": "Cider",
+            "description": "Bandida do Pomar",
+            "price": "~€3",
+            "image": "/menu/drinks-cider.jpg"
+          },
+          {
+            "name": "Natural Lemonade",
+            "description": "Fresh-squeezed, no sugar added",
+            "price": "€2.50",
             "image": "/menu/drinks-lemonade.jpg"
           },
           {
-            "name": "Craft Soda",
-            "description": "Cola, ginger beer or sparkling lemon",
-            "price": "€3",
-            "image": "/menu/drinks-craft-soda.jpg"
+            "name": "Strawberry Lemonade",
+            "description": "Strawberry lemonade, no sugar added",
+            "price": "€2.80",
+            "image": "/menu/drinks-strawberry-lemonade.jpg"
+          },
+          {
+            "name": "Pineapple & Mint Lemonade",
+            "description": "Pineapple and mint lemonade, no sugar added",
+            "price": "€2.80",
+            "image": "/menu/drinks-pineapple-lemonade.jpg"
+          },
+          {
+            "name": "Orange Juice",
+            "description": "Fresh-squeezed orange juice",
+            "price": "€2.95",
+            "image": "/menu/drinks-oj.jpg"
+          },
+          {
+            "name": "Espresso",
+            "description": "Single espresso",
+            "price": "€1.00",
+            "image": "/menu/drinks-espresso.jpg"
           }
         ]
       },
       {
-        "key": "desserts",
-        "label": "Desserts",
+        "key": "wines",
+        "label": "Wines",
         "items": [
           {
-            "name": "Churro Bites",
-            "description": "Warm cinnamon churros with dulce de leche dipping sauce",
-            "price": "€5",
-            "image": "/menu/desserts-churro.jpg"
+            "name": "Vinha do Conde (White)",
+            "description": "White wine, Alentejo 75cl",
+            "price": "€14.95",
+            "image": "/menu/wine-white.jpg"
           },
           {
-            "name": "Brownie",
-            "description": "Warm dark chocolate brownie with a scoop of vanilla ice cream",
-            "price": "€6",
-            "image": "/menu/desserts-brownie.jpg"
+            "name": "Catarina (White)",
+            "description": "White wine, Península de Setúbal 75cl",
+            "price": "€15.95",
+            "image": "/menu/wine-catarina.jpg"
           },
           {
-            "name": "Shake & Brownie",
-            "description": "One thick shake + one brownie — the full finish",
-            "price": "€10",
-            "image": "/menu/desserts-shake-brownie.jpg"
+            "name": "Conde Vimioso Sommelier Edition",
+            "description": "White wine, Tejo/Lisboa 75cl",
+            "price": "€19.00",
+            "image": "/menu/wine-conde.jpg"
+          },
+          {
+            "name": "House Wine (Glass)",
+            "description": "Glass of wine, Alentejo",
+            "price": "€3.95",
+            "image": "/menu/wine-glass.jpg"
+          },
+          {
+            "name": "Vinho Verde",
+            "description": "Muralha de Monção or Quinta da Calçada 75cl",
+            "price": "~€12",
+            "image": "/menu/wine-verde.jpg"
+          },
+          {
+            "name": "Sangria",
+            "description": "Red or white wine sangria",
+            "price": "~€8",
+            "image": "/menu/wine-sangria.jpg"
+          }
+        ]
+      },
+      {
+        "key": "spirits",
+        "label": "Spirits & Liqueurs",
+        "items": [
+          {
+            "name": "Porto Tónico",
+            "description": "Port wine with tonic",
+            "price": "€5.95",
+            "image": "/menu/spirit-porto-tonico.jpg"
+          },
+          {
+            "name": "Gin Hayman's",
+            "description": "Gin Hayman's with citrus",
+            "price": "€6.50",
+            "image": "/menu/spirit-gin.jpg"
+          },
+          {
+            "name": "Gin Hendrick's",
+            "description": "Premium gin",
+            "price": "€9.50",
+            "image": "/menu/spirit-hendricks.jpg"
+          },
+          {
+            "name": "Ginja de Óbidos",
+            "description": "Traditional Portuguese sour cherry liqueur",
+            "price": "€3.90",
+            "image": "/menu/spirit-ginja.jpg"
+          },
+          {
+            "name": "Licor Beirão",
+            "description": "Iconic Portuguese herbal liqueur",
+            "price": "€4.90",
+            "image": "/menu/spirit-beirao.jpg"
+          },
+          {
+            "name": "Porto Monge Tawny",
+            "description": "Port wine",
+            "price": "€3.90",
+            "image": "/menu/spirit-porto.jpg"
           }
         ]
       }
@@ -382,23 +712,23 @@
     "images": [
       {
         "src": "/gallery/1.jpg",
-        "alt": "Gutsy smash burger fresh off the griddle"
+        "alt": "Gutsy artisan burger with São Jorge cheese"
       },
       {
         "src": "/gallery/2.jpg",
-        "alt": "Loaded fries with cheese sauce"
+        "alt": "Cocktails at Gutsy"
       },
       {
         "src": "/gallery/3.jpg",
-        "alt": "Inside the Gutsy restaurant"
+        "alt": "Inside the Gutsy restaurant in Carcavelos"
       },
       {
         "src": "/gallery/4.jpg",
-        "alt": "Thick milkshake"
+        "alt": "Outdoor terrace seating"
       },
       {
         "src": "/gallery/5.jpg",
-        "alt": "Smashing a burger patty"
+        "alt": "Artisan burger preparation"
       },
       {
         "src": "/gallery/6.jpg",
@@ -406,7 +736,7 @@
       },
       {
         "src": "/gallery/7.jpg",
-        "alt": "Onion rings and dipping sauce"
+        "alt": "Aperol Spritz and cocktails"
       },
       {
         "src": "/gallery/8.jpg",
@@ -416,53 +746,53 @@
   },
   "reserveBar": {
     "cta_reserve": "Book a Table",
-    "cta_order": "Order Online",
-    "order_url": "https://gutsy.pt/order"
+    "cta_order": "Order on Uber Eats",
+    "order_url": "https://www.ubereats.com/pt/store/gutsy-carcavelos/6hCviMoCWMepsbAN5RdGGg"
   },
   "pricing": {
-    "title_line1": "MEAL",
-    "title_line2": "DEALS",
-    "subtitle": "More burger for less. Pick your combo and save.",
+    "title_line1": "SHARING",
+    "title_line2": "PLATES",
+    "subtitle": "Go big with the crew. Sharing plates and kids menus for everyone.",
     "popular_label": "Best Value",
-    "cta": "Order Now",
-    "disclaimer": "Deals available for dine-in and takeaway. Prices include VAT.",
+    "cta": "Book a Table",
+    "disclaimer": "Prices include VAT. Available for dine-in.",
     "plans": [
       {
-        "name": "Solo",
-        "price": "€14",
-        "period": "any burger + fries + drink",
+        "name": "Gutsy Exaggerated",
+        "price": "€24.95",
+        "period": "the ultimate sharing burger",
         "popular": false,
         "features": [
-          "Any single burger",
-          "Smash Fries",
-          "Can of soda or water",
-          "Available all day"
+          "480g 100% beef patty",
+          "Bacon & São Jorge island cheese",
+          "Baked ham & fried egg",
+          "Gutsy mayo, arugula & tomato",
+          "Perfect for 2 to share"
         ]
       },
       {
-        "name": "Combo",
-        "price": "€17",
-        "period": "burger + loaded fries + shake",
+        "name": "Family",
+        "price": "€29.95",
+        "period": "8 mini burgers to share",
         "popular": true,
         "features": [
-          "Any single burger",
-          "Loaded Fries",
-          "Thick milkshake",
-          "Available all day",
-          "Save €4 vs à la carte"
+          "8 mini burgers variety pack",
+          "Courageous, Adventurous, Sassy & more",
+          "Includes meat, fish & veggie options",
+          "Ideal for groups & families",
+          "Sweet potato fries upgrade +€1"
         ]
       },
       {
-        "name": "Party Bundle",
-        "price": "€49",
-        "period": "4 burgers + 4 fries + 4 drinks",
+        "name": "Kids Menu",
+        "price": "~€7",
+        "period": "mini burgers + drink",
         "popular": false,
         "features": [
-          "4 burgers of your choice",
-          "4 Smash Fries",
-          "4 drinks",
-          "Ideal for groups",
-          "Save €9 vs individual"
+          "2 mini Simple burgers",
+          "Drink (lemonade, water or soda)",
+          "For children up to 12",
+          "Highchairs available"
         ]
       }
     ]
@@ -470,7 +800,7 @@
   "googleReviews": {
     "title_line1": "LOVED IT?",
     "title_line2": "TELL THE WORLD.",
-    "subtitle": "Your review helps other burger fans find us — and it makes our team's day.",
+    "subtitle": "Your review helps other food lovers find us — and it makes our team's day.",
     "cta": "Leave a Google Review",
     "rating_label": "Rated on Google"
   },
@@ -479,23 +809,23 @@
     "title_line2": "NUMBERS",
     "items": [
       {
-        "label": "Burgers Smashed",
-        "target": 50000,
+        "label": "Reviews",
+        "target": 88,
         "suffix": "+"
       },
       {
-        "label": "5-Star Reviews",
-        "target": 98,
-        "suffix": "%"
-      },
-      {
-        "label": "Years in Lisbon",
-        "target": 5,
-        "suffix": "+"
+        "label": "Rating",
+        "target": 4.1,
+        "suffix": "★"
       },
       {
         "label": "Menu Items",
-        "target": 20,
+        "target": 30,
+        "suffix": "+"
+      },
+      {
+        "label": "Cocktails",
+        "target": 15,
         "suffix": "+"
       }
     ]
@@ -520,6 +850,12 @@
       "1:30 PM",
       "2:00 PM",
       "2:30 PM",
+      "3:00 PM",
+      "3:30 PM",
+      "4:00 PM",
+      "4:30 PM",
+      "5:00 PM",
+      "5:30 PM",
       "6:00 PM",
       "6:30 PM",
       "7:00 PM",

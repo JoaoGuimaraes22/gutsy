@@ -38,7 +38,7 @@ export default function GoogleReviews({ dict }: { dict: GoogleReviewsDict }) {
       className="relative overflow-hidden bg-zinc-900 px-6 py-16 md:px-8 md:py-24 xl:px-16 xl:py-32"
     >
       <div className="pointer-events-none absolute inset-0 flex items-center justify-center">
-        <div className="h-120 w-120 rounded-full bg-orange-600/10 blur-[140px]" />
+        <div className="h-120 w-120 rounded-full bg-orange-600/5 blur-[180px]" />
       </div>
       <div className="relative mx-auto max-w-2xl text-center">
         <motion.div className="mb-8" {...fadeUp(0)}>

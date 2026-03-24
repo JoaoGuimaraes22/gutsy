@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "title": "Meu Site",
-    "description": "Bem-vindo ao meu site."
+    "title": "Gutsy – Hambúrguer Artesanal & Cocktails | Carcavelos",
+    "description": "Hambúrgueres artesanais com ingredientes de qualidade e cocktails de autor em Carcavelos. Reserva a tua mesa online."
   },
   "home": {
     "title": "Bem-vindo",
-    "description": "Este e o ponto de partida do seu projeto. Edite esta pagina para comecar."
+    "description": "Hambúrguer artesanal e cocktails em Carcavelos. Ingredientes de qualidade, momentos inesquecíveis."
   },
   "navbar": {
     "brand": "Gutsy",
@@ -42,42 +42,42 @@
     ]
   },
   "hero": {
-    "title_line1": "HAMBÚRGUERES",
-    "title_line2": "A SÉRIO",
-    "tagline": "Smash burgers com carne local, pão fresco e zero compromissos. O favorito de Lisboa.",
+    "title_line1": "HAMBÚRGUER",
+    "title_line2": "ARTESANAL",
+    "tagline": "Hambúrgueres artesanais com ingredientes de qualidade e cocktails de autor em Carcavelos. A vida passa num instante — aproveita esse momento com quem amas.",
     "cta": "Reservar Mesa",
     "cta_secondary": "Ver Menu",
     "stats": [
       {
-        "value": "50K+",
-        "label": "Hambúrgueres Feitos"
+        "value": "88+",
+        "label": "Avaliações"
       },
       {
-        "value": "4.9★",
+        "value": "4.1★",
         "label": "Avaliação Google"
       },
       {
-        "value": "5+",
-        "label": "Anos em Lisboa"
+        "value": "30+",
+        "label": "Opções no Menu"
       }
     ]
   },
   "about": {
-    "title_line1": "COMIDA",
-    "title_line2": "A VERDADE",
-    "body": "Criámos o Gutsy porque estávamos fartos de hambúrgueres medíocres. Bifes finos, pão encharcado, carne de origem duvidosa — dissemos que não.\n\nCada hambúrguer Gutsy é feito com 100% de carne portuguesa, prensado na hora numa chapa bem quente, e servido em pão fresco saído da padaria ao lado. Simples. Honesto. Delicioso.",
+    "title_line1": "A NOSSA",
+    "title_line2": "HISTÓRIA",
+    "body": "No Gutsy, acreditamos que um bom hambúrguer merece ingredientes de verdade. Usamos queijo São Jorge, produtos locais e carne de qualidade para criar hambúrgueres artesanais com carácter.\n\nMas somos mais do que comida — somos momentos. Somos conhecidos pela qualidade dos nossos produtos, mas oferecemos mais do que isso — oferecemos momentos agradáveis entre amigos e família. A vida passa num instante! Aproveitem esse momento com quem amam.",
     "stats": [
       {
-        "value": "2020",
-        "label": "Fundado"
+        "value": "88+",
+        "label": "Avaliações"
       },
       {
-        "value": "50K+",
-        "label": "Hambúrgueres Feitos"
-      },
-      {
-        "value": "4.9★",
+        "value": "4.1★",
         "label": "Avaliação Google"
+      },
+      {
+        "value": "30+",
+        "label": "Opções no Menu"
       }
     ]
   },
@@ -86,83 +86,83 @@
     "title_line2": "GUTSY",
     "items": [
       {
-        "icon": "🔥",
-        "title": "Técnica Smash",
-        "description": "Prensado fino numa chapa a alta temperatura para máxima crosta e sabor em cada dentada."
+        "icon": "🍔",
+        "title": "Hambúrgueres Artesanais",
+        "description": "Mais de 15 receitas únicas com carne de qualidade, queijo São Jorge e ingredientes locais selecionados."
       },
       {
-        "icon": "🥩",
-        "title": "Carne Local",
-        "description": "100% carne bovina portuguesa de produtores locais. Sem aditivos, nunca congelada."
+        "icon": "🍸",
+        "title": "Cocktails de Autor",
+        "description": "Mojito, Caipirinha, Negroni, Aperol Spritz e muito mais — preparados com cuidado e servidos com estilo."
       },
       {
-        "icon": "🍞",
-        "title": "Pão Fresco Diário",
-        "description": "Os nossos pães de brioche são cozidos todas as manhãs numa padaria aqui ao lado."
+        "icon": "🌿",
+        "title": "Opções Vegetarianas & Vegan",
+        "description": "Hambúrgueres de Tofu e Seitan para quem prefere uma alternativa sem carne, sem perder o sabor."
       },
       {
-        "icon": "⚡",
-        "title": "Rápido e Fresco",
-        "description": "Pronto em menos de 10 minutos. Quente, fresco e feito na hora — sempre."
+        "icon": "☀️",
+        "title": "Esplanada",
+        "description": "Desfruta da tua refeição ao ar livre na nossa esplanada em Carcavelos. Perfeito em qualquer estação."
       },
       {
-        "icon": "🛵",
-        "title": "Entrega Rápida",
-        "description": "Encomenda no nosso site ou via Glovo e Uber Eats. Quente à porta em minutos."
+        "icon": "👶",
+        "title": "Família Bem-Vinda",
+        "description": "Cadeirões para crianças e menu infantil disponível. Um espaço pensado para toda a família."
       },
       {
-        "icon": "🥤",
-        "title": "Especialidades",
-        "description": "Molhos únicos, milkshakes espessos e batatas carregadas que não vais encontrar mais em lado nenhum."
+        "icon": "📱",
+        "title": "Reservas Fáceis",
+        "description": "Reserva a tua mesa diretamente no nosso site e garante o teu lugar sem esperas."
       }
     ]
   },
   "reviews": {
     "title_line1": "O QUE AS",
     "title_line2": "PESSOAS DIZEM",
-    "subtitle": "Opiniões reais de fãs de hambúrgueres reais.",
+    "subtitle": "Opiniões reais dos nossos clientes.",
     "items": [
       {
-        "quote": "O melhor hambúrguer de Lisboa, sem dúvida. A técnica smash faz toda a diferença — aquela crosta é incrível.",
+        "quote": "Hambúrgueres fantásticos e cocktails muito bem feitos. O ambiente é descontraído e perfeito para uma noite entre amigos.",
         "name": "Ana P.",
-        "role": "Lisboa",
+        "role": "Carcavelos",
         "avatar": null,
-        "rating": 5
+        "rating": 4
       },
       {
-        "quote": "Venho cá todas as semanas desde que abriu. O Smoky burger é absolutamente incrível. Nunca enjoa.",
+        "quote": "O Corajoso é incrível — ingredientes de qualidade que fazem toda a diferença. Voltamos sempre!",
         "name": "Miguel R.",
-        "role": "Lisboa",
+        "role": "Carcavelos",
         "avatar": null,
-        "rating": 5
+        "rating": 4
       },
       {
-        "quote": "Finalmente smash burgers a sério em Portugal. O Gutsy acertou em cheio. Vale cada cêntimo.",
+        "quote": "Ótima esplanada, cocktails excelentes e hambúrgueres bem servidos. Um achado em Carcavelos.",
         "name": "Tom H.",
-        "role": "Expat, Lisboa",
+        "role": "Cascais",
         "avatar": null,
-        "rating": 5
+        "rating": 4
       },
       {
-        "quote": "Perfeito para um almoço rápido. Sempre fresco, sempre quente, sempre exatamente o que queres.",
+        "quote": "Fomos com as crianças e adoraram o menu júnior. Espaço acolhedor e simpático para famílias.",
         "name": "Sofia M.",
-        "role": "Bairro Alto",
+        "role": "Oeiras",
         "avatar": null,
-        "rating": 5
+        "rating": 4
       },
       {
-        "quote": "As batatas carregadas sozinhas valem a viagem. Não sei o que têm no molho de queijo mas preciso de mais.",
+        "quote": "O Aperol Spritz e o hambúrguer Sassy são uma combinação perfeita. Adorámos a experiência.",
         "name": "Pedro C.",
-        "role": "Lisboa",
+        "role": "Carcavelos",
         "avatar": null,
-        "rating": 5
+        "rating": 4
       },
       {
-        "quote": "Bom ambiente, boa comida, bom preço. O nosso sítio preferido para a noite de sexta. Os milkshakes são viciantes.",
+        "quote": "Bom ambiente, boa comida, preço justo. Já é o nosso spot de sexta-feira à noite.",
         "name": "Mariana L.",
-        "role": "Chiado",
+        "role": "Parede",
         "avatar": null,
-        "rating": 5
+        "rating": 4
       }
     ]
   },
@@ -171,62 +171,62 @@
     "title_line2": "FREQUENTES",
     "items": [
       {
-        "question": "Fazem entregas?",
-        "answer": "Sim! Podes encomendar diretamente no nosso site ou através do Glovo e Uber Eats. Entregamos num raio de 5km do restaurante."
+        "question": "Quais são os vossos horários?",
+        "answer": "Segunda a quinta das 12h às 23h, sexta e sábado das 12h às 23h30, e domingo das 12h às 23h."
       },
       {
         "question": "Têm opções vegetarianas?",
-        "answer": "Claro. O nosso Fungi Burger tem um bife de origem vegetal com os mesmos toppings saborosos. Uma delícia sem carne."
+        "answer": "Sim! Temos hambúrgueres de Tofu e de Seitan, preparados com o mesmo cuidado e sabor dos nossos hambúrgueres de carne."
       },
       {
         "question": "Posso reservar mesa?",
-        "answer": "Aceitamos sempre walk-ins. Para grupos de 6 ou mais, recomendamos ligar antes para garantirmos o espaço certo."
+        "answer": "Claro! Podes reservar diretamente no nosso site ou ligar para o +351 21 828 5795. Walk-ins também são bem-vindos."
       },
       {
-        "question": "Quais são os vossos horários?",
-        "answer": "Segunda a quinta das 12h às 22h, sexta e sábado das 12h às 23h, domingo das 12h às 21h. Cozinha fecha 30 minutos antes."
+        "question": "Têm esplanada?",
+        "answer": "Sim, temos uma esplanada agradável. Também oferecemos WiFi grátis, estacionamento gratuito nas proximidades e acessibilidade para cadeiras de rodas."
       },
       {
-        "question": "Fazem catering para eventos?",
-        "answer": "Sim! Tratamos de encomendas grandes e eventos privados. Contacta-nos pelo formulário e combinamos tudo."
+        "question": "Fazem takeaway?",
+        "answer": "Sim, oferecemos serviço de takeaway. Podes encomendar diretamente no restaurante ou ligar para o +351 21 828 5795."
       },
       {
-        "question": "Os ingredientes são sempre frescos?",
-        "answer": "Sempre. Preparamos tudo de fresco todos os dias e nunca congelamos os bifes. Se acabar, acabou — essa é a nossa política."
+        "question": "Têm opções para crianças?",
+        "answer": "Temos cadeirões para crianças e o Gutsy Special Junior (€11.90) — perfeito para os mais pequenos."
       }
     ]
   },
   "contact": {
     "title_line1": "VÊM",
     "title_line2": "VISITAR-NOS",
-    "body": "Tens uma dúvida, uma encomenda grande ou só queres dizer olá? Fala connosco — somos simpáticos.",
+    "body": "Estamos em Carcavelos, prontos para vos receber. Reservem mesa, passem para um cocktail ou venham matar a fome com um hambúrguer artesanal.",
     "book_cta": "Reservar Mesa",
-    "order_cta": "Encomendar Online",
-    "phone": "+351 912 345 678",
-    "email": "hello@gutsy.pt",
-    "address": "Rua do Ouro 45, 1100-060 Lisboa",
-    "hours": "Seg–Qui 12h–22h · Sex–Sáb 12h–23h · Dom 12h–21h",
-    "map_link": "https://maps.google.com/?q=Rua+do+Ouro+45+Lisboa",
-    "order_url": "https://gutsy.pt/order",
+    "order_cta": "Pedir no Uber Eats",
+    "phone": "+351 21 828 5795",
+    "email": "gutsyoriginalpt@gmail.com",
+    "address": "Praça Do Junqueiro 6B, 2775-597 Carcavelos",
+    "hours": "Seg–Qui 12h–23h · Sex–Sáb 12h–23h30 · Dom 12h–23h",
+    "map_link": "https://maps.google.com/?q=Praça+Do+Junqueiro+6B+Carcavelos",
+    "order_url": "https://www.ubereats.com/pt/store/gutsy-carcavelos/6hCviMoCWMepsbAN5RdGGg",
     "map": {
-      "address": "Rua do Ouro 45\n1100-060 Lisboa",
-      "mapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3113.2!2d-9.138!3d38.709!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sRua+do+Ouro+45+Lisboa!5e0!3m2!1spt!2spt!4v1",
-      "mapTitle": "Localização do Gutsy Burgers"
+      "address": "Praça Do Junqueiro 6B\n2775-597 Carcavelos",
+      "mapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3113.5!2d-9.338!3d38.688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sPraça+Do+Junqueiro+6B+Carcavelos!5e0!3m2!1spt!2spt!4v1",
+      "mapTitle": "Localização do Gutsy em Carcavelos"
     }
   },
   "footer": {
     "brand": "Gutsy",
-    "tagline": "Smash burgers com carne local e zero compromissos.",
-    "address": "Rua do Ouro 45, 1100-060 Lisboa",
-    "hours": "Seg–Qui 12h–22h · Sex–Sáb 12h–23h",
-    "phone": "+351 912 345 678",
-    "email": "hello@gutsy.pt",
-    "copyright": "© 2025 Gutsy Burgers. Todos os direitos reservados.",
+    "tagline": "Hambúrguer artesanal e cocktails com ingredientes de qualidade.",
+    "address": "Praça Do Junqueiro 6B, 2775-597 Carcavelos",
+    "hours": "Seg–Qui 12h–23h · Sex–Sáb 12h–23h30 · Dom 12h–23h",
+    "phone": "+351 21 828 5795",
+    "email": "gutsyoriginalpt@gmail.com",
+    "copyright": "© 2025 Gutsy – Hambúrguer Artesanal & Cocktails. Todos os direitos reservados.",
     "book_cta": "Reservar Mesa",
     "explore_label": "Explorar",
     "hours_label": "Horário",
     "find_us_label": "Encontre-nos",
-    "made_in": "Feito em Lisboa",
+    "made_in": "Feito em Carcavelos",
     "nav_links": [
       {
         "id": "about",
@@ -252,73 +252,319 @@
   },
   "menu": {
     "title": "O Nosso Menu",
-    "subtitle": "Bifes frescos, carne local, pão cozido diariamente — feito na hora",
+    "subtitle": "Hambúrgueres artesanais, cocktails de autor e muito mais — feito com ingredientes de qualidade",
     "chefs_pick": "Escolha do Chef",
     "categories": [
       {
-        "key": "burgers",
-        "label": "Hambúrgueres",
+        "key": "burgers-carne",
+        "label": "Hambúrgueres – Carne",
         "highlight_image": "/menu/burgers.jpg",
         "items": [
           {
-            "name": "The OG",
-            "description": "Duplo smash, queijo americano, molho especial, pickles, cebola branca",
-            "price": "€12",
-            "image": "/menu/burger-og.jpg"
+            "name": "Corajoso",
+            "description": "O nosso clássico hambúrguer artesanal com ingredientes premium",
+            "price": "€12.50",
+            "image": "/menu/burger-corajoso.jpg"
           },
           {
-            "name": "Gutsy Classic",
-            "description": "Bife simples, alface, tomate, cebola roxa, mostarda, ketchup",
-            "price": "€10",
-            "image": "/menu/burger-gutsy-classic.jpg"
+            "name": "Aventureiro",
+            "description": "Para quem gosta de experimentar sabores ousados",
+            "price": "€12.50",
+            "image": "/menu/burger-aventureiro.jpg"
           },
           {
-            "name": "The Smoky",
-            "description": "Duplo smash, bacon, cheddar fumado, molho BBQ, cebola frita crocante",
-            "price": "€13",
-            "image": "/menu/burger-smoky.jpg"
+            "name": "Sassy",
+            "description": "Com um toque atrevido e queijo São Jorge",
+            "price": "€12.50",
+            "image": "/menu/burger-sassy.jpg"
           },
           {
-            "name": "Fungi Burger",
-            "description": "Cogumelos salteados, queijo suíço, maionese de trufa, rúcula — bife vegetal disponível",
-            "price": "€13",
-            "image": "/menu/burger-fungi.jpg"
+            "name": "Irreverente",
+            "description": "Combinação irreverente de sabores que surpreende",
+            "price": "€12.50",
+            "image": "/menu/burger-irreverente.jpg"
           },
           {
-            "name": "Spicy Diablo",
-            "description": "Duplo smash, jalapeños, queijo picante, maionese sriracha, cebola roxa em pickles",
-            "price": "€13",
-            "image": "/menu/burger-spicy-diablo.jpg"
+            "name": "Audaz",
+            "description": "Um hambúrguer audaz com ingredientes selecionados",
+            "price": "€12.50",
+            "image": "/menu/burger-audaz.jpg"
+          },
+          {
+            "name": "Intenso",
+            "description": "Sabor intenso com queijo derretido e molho da casa",
+            "price": "€12.50",
+            "image": "/menu/burger-intenso.jpg"
+          },
+          {
+            "name": "Brave",
+            "description": "Para os mais corajosos — sabor forte e marcante",
+            "price": "€12.50",
+            "image": "/menu/burger-brave.jpg"
+          },
+          {
+            "name": "Natura",
+            "description": "Ingredientes naturais e frescos da época",
+            "price": "€12.50",
+            "image": "/menu/burger-natura.jpg"
+          },
+          {
+            "name": "Daring",
+            "description": "Uma combinação ousada que desafia o convencional",
+            "price": "€12.50",
+            "image": "/menu/burger-daring.jpg"
+          },
+          {
+            "name": "Valente",
+            "description": "Generoso em tamanho e em sabor",
+            "price": "€12.50",
+            "image": "/menu/burger-valente.jpg"
+          },
+          {
+            "name": "Arrojado",
+            "description": "Uma criação arrojada com ingredientes locais",
+            "price": "€12.50",
+            "image": "/menu/burger-arrojado.jpg"
+          },
+          {
+            "name": "Empoderada",
+            "description": "Sabores fortes e equilibrados numa combinação única",
+            "price": "€12.50",
+            "image": "/menu/burger-empoderada.jpg"
           }
         ]
       },
       {
-        "key": "sides",
-        "label": "Acompanhamentos",
+        "key": "burgers-peixe",
+        "label": "Hambúrgueres – Peixe",
         "items": [
           {
-            "name": "Smash Fries",
-            "description": "Batatas fritas duplamente fritas com tempero da casa e flor de sal",
-            "price": "€4",
-            "image": "/menu/sides-smash-fries.jpg"
+            "name": "Destemido",
+            "description": "Hambúrguer de peixe fresco com molho tártaro artesanal",
+            "price": "€12.50",
+            "image": "/menu/burger-destemido.jpg"
           },
           {
-            "name": "Loaded Fries",
-            "description": "Batatas fritas com molho de queijo, bacon e cebolinho",
-            "price": "€7",
-            "image": "/menu/sides-loaded-fries.jpg"
+            "name": "Charming",
+            "description": "Peixe grelhado com toppings frescos e delicados",
+            "price": "€12.50",
+            "image": "/menu/burger-charming.jpg"
           },
           {
-            "name": "Onion Rings",
-            "description": "Anéis de cebola panados em cerveja com molho chipotle",
-            "price": "€5",
-            "image": "/menu/sides-onion-rings.jpg"
+            "name": "Bacalhau",
+            "description": "O clássico português reinventado em hambúrguer",
+            "price": "€12.50",
+            "image": "/menu/burger-bacalhau.jpg"
+          }
+        ]
+      },
+      {
+        "key": "burgers-vegetariano",
+        "label": "Hambúrgueres – Vegetariano",
+        "items": [
+          {
+            "name": "Tofu",
+            "description": "Hambúrguer de tofu grelhado com vegetais frescos",
+            "price": "€11.50",
+            "image": "/menu/burger-tofu.jpg"
           },
           {
-            "name": "Coleslaw",
-            "description": "Coleslaw da casa com vinagre de sidra e ervas frescas",
-            "price": "€3",
-            "image": "/menu/sides-coleslaw.jpg"
+            "name": "Seitan",
+            "description": "Hambúrguer de seitan com molho especial da casa",
+            "price": "€11.50",
+            "image": "/menu/burger-seitan.jpg"
+          }
+        ]
+      },
+      {
+        "key": "especialidades",
+        "label": "Especialidades",
+        "items": [
+          {
+            "name": "Moulin Rouge",
+            "description": "Uma criação especial do chef — sabor único e memorável",
+            "price": "€12.50",
+            "image": "/menu/especialidade-moulin-rouge.jpg"
+          },
+          {
+            "name": "Gutsy Special Junior",
+            "description": "Versão júnior ideal para os mais pequenos",
+            "price": "€11.90",
+            "image": "/menu/especialidade-junior.jpg"
+          },
+          {
+            "name": "Irreverente Saloio",
+            "description": "A versão saloio do nosso Irreverente — com toque regional",
+            "price": "€12.50",
+            "image": "/menu/especialidade-saloio.jpg"
+          }
+        ]
+      },
+      {
+        "key": "cocktails",
+        "label": "Cocktails",
+        "items": [
+          {
+            "name": "Mojito",
+            "description": "Rum, sumo de lima, hortelã, açúcar",
+            "price": "€6.50",
+            "image": "/menu/cocktail-mojito.jpg"
+          },
+          {
+            "name": "Caipirinha",
+            "description": "Cachaça, sumo de lima, açúcar",
+            "price": "€6.50",
+            "image": "/menu/cocktail-caipirinha.jpg"
+          },
+          {
+            "name": "Caipiroska",
+            "description": "Vodka, sumo de lima, açúcar",
+            "price": "€6.50",
+            "image": "/menu/cocktail-caipiroska.jpg"
+          },
+          {
+            "name": "Margarita Sour",
+            "description": "Tequila, sumo de lima, Cointreau, açúcar",
+            "price": "€7.00",
+            "image": "/menu/cocktail-margarita-sour.jpg"
+          },
+          {
+            "name": "Margarita de Morango",
+            "description": "Tequila, sumo de lima, morango, Cointreau, açúcar",
+            "price": "€7.95",
+            "image": "/menu/cocktail-strawberry-margarita.jpg"
+          },
+          {
+            "name": "Negroni",
+            "description": "Gin, vermute, Campari, laranja",
+            "price": "€7.95",
+            "image": "/menu/cocktail-negroni.jpg"
+          },
+          {
+            "name": "Pisco Sour",
+            "description": "Pisco, sumo de lima, clara de ovo, açúcar, bitters",
+            "price": "€8.95",
+            "image": "/menu/cocktail-pisco-sour.jpg"
+          },
+          {
+            "name": "Sex on the Beach",
+            "description": "Vodka, sumo de laranja, licor de pêssego, grenadine",
+            "price": "€8.95",
+            "image": "/menu/cocktail-sex-on-the-beach.jpg"
+          },
+          {
+            "name": "Aperol Spritz",
+            "description": "Aperol, laranja, prosecco, água com gás",
+            "price": "€8.95",
+            "image": "/menu/cocktail-aperol-spritz.jpg"
+          },
+          {
+            "name": "Chola María",
+            "description": "Tequila, pisco, sumo de lima, tamarindo, clara de ovo, manjericão fresco",
+            "price": "€9.50",
+            "image": "/menu/cocktail-chola-maria.jpg"
+          }
+        ]
+      },
+      {
+        "key": "plates",
+        "label": "Hambúrgueres no Prato",
+        "items": [
+          {
+            "name": "Hambúrguer à Parmegiana",
+            "description": "Hambúrguer panado e frito, molho de tomate caseiro, gratinado de mozzarella e parmesão, com batatas fritas",
+            "price": "€12.75",
+            "image": "/menu/plate-parmegiana.jpg"
+          },
+          {
+            "name": "Hambúrguer Grelhado – Molho Marrare",
+            "description": "Hambúrguer grelhado, molho demi-glace e natas, batatas fritas e ovo estrelado",
+            "price": "€12.75",
+            "image": "/menu/plate-marrare.jpg"
+          },
+          {
+            "name": "Hambúrguer Grelhado – Molho de Cogumelos",
+            "description": "Hambúrguer grelhado, molho de cogumelos da floresta, batatas fritas e ovo estrelado",
+            "price": "€12.75",
+            "image": "/menu/plate-mushroom.jpg"
+          },
+          {
+            "name": "Hambúrguer Grelhado – Molho de Mostarda",
+            "description": "Hambúrguer grelhado, molho demi-glace de mostarda antiga e natas, batatas fritas e ovo estrelado",
+            "price": "€12.75",
+            "image": "/menu/plate-mustard.jpg"
+          }
+        ]
+      },
+      {
+        "key": "sharing",
+        "label": "Para Partilhar",
+        "items": [
+          {
+            "name": "Gutsy (Exagerado)",
+            "description": "480g 100% carne bovina, bacon, queijo São Jorge, fiambre, ovo estrelado, maionese gutsy, rúcula e tomate",
+            "price": "€24.95",
+            "image": "/menu/sharing-gutsy.jpg"
+          },
+          {
+            "name": "Família",
+            "description": "8 mini hambúrgueres: Corajoso, Aventureiro, Seitan, Irreverente, Audaz, Intenso, Destemido, Valente Chicken",
+            "price": "€29.95",
+            "image": "/menu/sharing-family.jpg"
+          },
+          {
+            "name": "Gutsy Família",
+            "description": "8 mini hambúrgueres: Corajoso, Aventureiro, Sassy, Irreverente, Audaz, Intenso, Destemido, Daring",
+            "price": "€29.95",
+            "image": "/menu/sharing-gutsy-family.jpg"
+          }
+        ]
+      },
+      {
+        "key": "wraps-saladas",
+        "label": "Wraps & Saladas",
+        "items": [
+          {
+            "name": "Wrap Vegetariano",
+            "description": "Cogumelos portobello, vegetais salteados, maionese de azeitona e alho, rúcula, tomate",
+            "price": "~€9",
+            "image": "/menu/wrap-vegetable.jpg"
+          },
+          {
+            "name": "Wrap de Frango",
+            "description": "Tiras de frango panado, molho caesar, abacate, manga, rúcula",
+            "price": "~€9",
+            "image": "/menu/wrap-chicken.jpg"
+          },
+          {
+            "name": "Wrap",
+            "description": "Abacate, manga, rúcula — à escolha: carne / frango panado / salmão e camarão (+€1.30) / vegan",
+            "price": "€9.20",
+            "image": "/menu/wrap-classic.jpg"
+          },
+          {
+            "name": "Salada de Salmão (Completa)",
+            "description": "Salmão fumado, ovo cozido, agrião, espinafre, rúcula, abacate, tomate cherry, coentros, croutons, EVOO e vinagre balsâmico",
+            "price": "~€10",
+            "image": "/menu/salad-salmon.jpg"
+          },
+          {
+            "name": "Salada de Frango",
+            "description": "Frango em molho de iogurte, agrião, espinafre, rúcula, cebolinho, feta, hortelã, malagueta, manga, abacate",
+            "price": "~€10",
+            "image": "/menu/salad-chicken.jpg"
+          },
+          {
+            "name": "Salada New Summer",
+            "description": "Alface, cenoura, couve roxa, manga, morango, pêssego, tomate cherry, queijo fresco, sésamo, vinagrete",
+            "price": "~€9",
+            "image": "/menu/salad-new-summer.jpg"
+          },
+          {
+            "name": "Menu Crianças",
+            "description": "2 mini hambúrgueres Natura + bebida (limonada, água ou refrigerante) — crianças até 12 anos",
+            "price": "~€7",
+            "image": "/menu/kids-menu.jpg"
           }
         ]
       },
@@ -327,52 +573,136 @@
         "label": "Bebidas",
         "items": [
           {
-            "name": "Milkshake Espesso",
-            "description": "Baunilha, chocolate ou morango — batido espesso como deve ser",
-            "price": "€6",
-            "image": "/menu/drinks-milkshake.jpg"
+            "name": "Imperial / Caneca",
+            "description": "Cerveja de pressão, shandy ou tango (cerveja + groselha)",
+            "price": "~€3",
+            "image": "/menu/drinks-beer.jpg"
           },
           {
             "name": "Cerveja Artesanal",
-            "description": "Torneira local rotativa, sempre fresca",
-            "price": "€4",
+            "description": "Seleção rotativa de cervejas artesanais",
+            "price": "~€4",
             "image": "/menu/drinks-craft-beer.jpg"
           },
           {
-            "name": "Limonada da Casa",
-            "description": "Espremida na hora com menta, servida com gelo",
-            "price": "€4",
+            "name": "Cidra",
+            "description": "Bandida do Pomar",
+            "price": "~€3",
+            "image": "/menu/drinks-cider.jpg"
+          },
+          {
+            "name": "Limonada Natural",
+            "description": "Espremida na hora, sem açúcar adicionado",
+            "price": "€2.50",
             "image": "/menu/drinks-lemonade.jpg"
           },
           {
-            "name": "Refrigerante Artesanal",
-            "description": "Cola, ginger beer ou limão com gás",
-            "price": "€3",
-            "image": "/menu/drinks-craft-soda.jpg"
+            "name": "Limonada de Morango",
+            "description": "Limonada de morango, sem açúcar adicionado",
+            "price": "€2.80",
+            "image": "/menu/drinks-strawberry-lemonade.jpg"
+          },
+          {
+            "name": "Limonada de Ananás e Hortelã",
+            "description": "Limonada de ananás e hortelã, sem açúcar adicionado",
+            "price": "€2.80",
+            "image": "/menu/drinks-pineapple-lemonade.jpg"
+          },
+          {
+            "name": "Sumo de Laranja",
+            "description": "Sumo de laranja natural",
+            "price": "€2.95",
+            "image": "/menu/drinks-oj.jpg"
+          },
+          {
+            "name": "Café",
+            "description": "Expresso",
+            "price": "€1.00",
+            "image": "/menu/drinks-espresso.jpg"
           }
         ]
       },
       {
-        "key": "desserts",
-        "label": "Sobremesas",
+        "key": "wines",
+        "label": "Vinhos",
         "items": [
           {
-            "name": "Churro Bites",
-            "description": "Churros quentes com canela e molho de dulce de leche",
-            "price": "€5",
-            "image": "/menu/desserts-churro.jpg"
+            "name": "Vinha do Conde (Branco)",
+            "description": "Vinho branco, Alentejo 75cl",
+            "price": "€14.95",
+            "image": "/menu/wine-white.jpg"
           },
           {
-            "name": "Brownie",
-            "description": "Brownie de chocolate quente com gelado de baunilha",
-            "price": "€6",
-            "image": "/menu/desserts-brownie.jpg"
+            "name": "Catarina (Branco)",
+            "description": "Vinho branco, Península de Setúbal 75cl",
+            "price": "€15.95",
+            "image": "/menu/wine-catarina.jpg"
           },
           {
-            "name": "Shake & Brownie",
-            "description": "Um milkshake espesso + um brownie — o fim perfeito",
-            "price": "€10",
-            "image": "/menu/desserts-shake-brownie.jpg"
+            "name": "Conde Vimioso Sommelier Edition",
+            "description": "Vinho branco, Tejo/Lisboa 75cl",
+            "price": "€19.00",
+            "image": "/menu/wine-conde.jpg"
+          },
+          {
+            "name": "Vinho da Casa (Copo)",
+            "description": "Copo de vinho, Alentejo",
+            "price": "€3.95",
+            "image": "/menu/wine-glass.jpg"
+          },
+          {
+            "name": "Vinho Verde",
+            "description": "Muralha de Monção ou Quinta da Calçada 75cl",
+            "price": "~€12",
+            "image": "/menu/wine-verde.jpg"
+          },
+          {
+            "name": "Sangria",
+            "description": "Sangria de vinho tinto ou branco",
+            "price": "~€8",
+            "image": "/menu/wine-sangria.jpg"
+          }
+        ]
+      },
+      {
+        "key": "spirits",
+        "label": "Espirituosas & Licores",
+        "items": [
+          {
+            "name": "Porto Tónico",
+            "description": "Vinho do Porto com tónica",
+            "price": "€5.95",
+            "image": "/menu/spirit-porto-tonico.jpg"
+          },
+          {
+            "name": "Gin Hayman's",
+            "description": "Gin Hayman's com citrinos",
+            "price": "€6.50",
+            "image": "/menu/spirit-gin.jpg"
+          },
+          {
+            "name": "Gin Hendrick's",
+            "description": "Gin premium",
+            "price": "€9.50",
+            "image": "/menu/spirit-hendricks.jpg"
+          },
+          {
+            "name": "Ginja de Óbidos",
+            "description": "Licor tradicional português de ginja",
+            "price": "€3.90",
+            "image": "/menu/spirit-ginja.jpg"
+          },
+          {
+            "name": "Licor Beirão",
+            "description": "Icónico licor português de ervas",
+            "price": "€4.90",
+            "image": "/menu/spirit-beirao.jpg"
+          },
+          {
+            "name": "Porto Monge Tawny",
+            "description": "Vinho do Porto",
+            "price": "€3.90",
+            "image": "/menu/spirit-porto.jpg"
           }
         ]
       }
@@ -382,23 +712,23 @@
     "images": [
       {
         "src": "/gallery/1.jpg",
-        "alt": "Hambúrguer smash do Gutsy saído da chapa"
+        "alt": "Hambúrguer artesanal Gutsy"
       },
       {
         "src": "/gallery/2.jpg",
-        "alt": "Batatas loaded com molho de queijo"
+        "alt": "Cocktails de autor no Gutsy"
       },
       {
         "src": "/gallery/3.jpg",
-        "alt": "Interior do Gutsy"
+        "alt": "Interior do Gutsy em Carcavelos"
       },
       {
         "src": "/gallery/4.jpg",
-        "alt": "Milkshake espesso"
+        "alt": "Esplanada do Gutsy"
       },
       {
         "src": "/gallery/5.jpg",
-        "alt": "A esmagar um bife na chapa"
+        "alt": "Preparação artesanal na cozinha"
       },
       {
         "src": "/gallery/6.jpg",
@@ -406,7 +736,7 @@
       },
       {
         "src": "/gallery/7.jpg",
-        "alt": "Onion rings com molho"
+        "alt": "Aperol Spritz na esplanada"
       },
       {
         "src": "/gallery/8.jpg",
@@ -416,53 +746,53 @@
   },
   "reserveBar": {
     "cta_reserve": "Reservar Mesa",
-    "cta_order": "Encomendar Online",
-    "order_url": "https://gutsy.pt/order"
+    "cta_order": "Pedir no Uber Eats",
+    "order_url": "https://www.ubereats.com/pt/store/gutsy-carcavelos/6hCviMoCWMepsbAN5RdGGg"
   },
   "pricing": {
-    "title_line1": "PROMOÇÕES",
-    "title_line2": "ESPECIAIS",
-    "subtitle": "Mais hambúrguer por menos. Escolhe o teu combo e poupa.",
+    "title_line1": "MENUS",
+    "title_line2": "PARTILHA",
+    "subtitle": "Para partilhar com amigos e família. Porque a vida é melhor acompanhada.",
     "popular_label": "Melhor Valor",
-    "cta": "Pedir Agora",
-    "disclaimer": "Promoções disponíveis para comer no local e takeaway. Preços incluem IVA.",
+    "cta": "Reservar Mesa",
+    "disclaimer": "Preços incluem IVA. Disponível para comer no local e takeaway.",
     "plans": [
       {
-        "name": "Solo",
-        "price": "€14",
-        "period": "hambúrguer + batatas + bebida",
+        "name": "Gutsy Exagerado",
+        "price": "€24.95",
+        "period": "tábua de partilha para 2",
         "popular": false,
         "features": [
-          "Qualquer hambúrguer simples",
-          "Smash Fries",
-          "Lata de refrigerante ou água",
-          "Disponível todo o dia"
+          "480g 100% carne bovina",
+          "Bacon e queijo São Jorge",
+          "Fiambre e ovo estrelado",
+          "Maionese gutsy, rúcula e tomate",
+          "Perfeito para partilhar a 2"
         ]
       },
       {
-        "name": "Combo",
-        "price": "€17",
-        "period": "hambúrguer + loaded fries + shake",
+        "name": "Gutsy Família",
+        "price": "€29.95",
+        "period": "8 mini hambúrgueres para partilhar",
         "popular": true,
         "features": [
-          "Qualquer hambúrguer simples",
-          "Loaded Fries",
-          "Milkshake espesso",
-          "Disponível todo o dia",
-          "Poupa €4 vs à la carte"
+          "8 mini hambúrgueres variados",
+          "Corajoso, Aventureiro, Sassy e mais",
+          "Inclui carne, peixe e vegetariano",
+          "Ideal para grupos e famílias",
+          "Upgrade batata-doce +€1"
         ]
       },
       {
-        "name": "Pack Grupo",
-        "price": "€49",
-        "period": "4 hambúrgueres + 4 batatas + 4 bebidas",
+        "name": "Menu Crianças",
+        "price": "~€7",
+        "period": "mini hambúrgueres + bebida",
         "popular": false,
         "features": [
-          "4 hambúrgueres à escolha",
-          "4 Smash Fries",
-          "4 bebidas",
-          "Ideal para grupos",
-          "Poupa €9 vs individual"
+          "2 mini hambúrgueres Natura",
+          "Bebida (limonada, água ou refrigerante)",
+          "Crianças até 12 anos",
+          "Cadeirões disponíveis"
         ]
       }
     ]
@@ -470,8 +800,8 @@
   "googleReviews": {
     "title_line1": "GOSTASTE?",
     "title_line2": "CONTA AO MUNDO.",
-    "subtitle": "A tua opinião ajuda outros fãs de hambúrgueres a encontrar-nos — e faz o dia da nossa equipa.",
-    "cta": "Deixar uma Avaliação no Google",
+    "subtitle": "A tua opinião ajuda outros a encontrar-nos — e faz o dia da nossa equipa.",
+    "cta": "Deixar uma Avaliação",
     "rating_label": "Avaliado no Google"
   },
   "statsCounters": {
@@ -479,23 +809,23 @@
     "title_line2": "NÚMEROS",
     "items": [
       {
-        "label": "Hambúrgueres Feitos",
-        "target": 50000,
+        "label": "Avaliações",
+        "target": 88,
         "suffix": "+"
       },
       {
-        "label": "Avaliações 5 Estrelas",
-        "target": 98,
-        "suffix": "%"
-      },
-      {
-        "label": "Anos em Lisboa",
-        "target": 5,
-        "suffix": "+"
+        "label": "Avaliação Google",
+        "target": 4.1,
+        "suffix": "★"
       },
       {
         "label": "Opções no Menu",
-        "target": 20,
+        "target": 30,
+        "suffix": "+"
+      },
+      {
+        "label": "Cocktails",
+        "target": 10,
         "suffix": "+"
       }
     ]
@@ -520,6 +850,12 @@
       "13:30",
       "14:00",
       "14:30",
+      "15:00",
+      "15:30",
+      "16:00",
+      "16:30",
+      "17:00",
+      "17:30",
       "18:00",
       "18:30",
       "19:00",
