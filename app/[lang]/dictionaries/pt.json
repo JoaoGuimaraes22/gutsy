@@ -258,79 +258,79 @@
       {
         "key": "burgers-carne",
         "label": "Hambúrgueres – Carne",
-        "highlight_image": "/menu/burgers.jpg",
+        "highlight_image": "/menu/burger-courageous.png",
         "items": [
           {
             "name": "Corajoso",
             "description": "O nosso clássico hambúrguer artesanal com ingredientes premium",
             "price": "€12.50",
-            "image": "/menu/burger-corajoso.jpg"
+            "image": "/menu/burger-courageous.png"
           },
           {
             "name": "Aventureiro",
             "description": "Para quem gosta de experimentar sabores ousados",
             "price": "€12.50",
-            "image": "/menu/burger-aventureiro.jpg"
+            "image": "/menu/burger-adventurous.png"
           },
           {
             "name": "Sassy",
             "description": "Com um toque atrevido e queijo São Jorge",
             "price": "€12.50",
-            "image": "/menu/burger-sassy.jpg"
+            "image": "/menu/burger-sassy.png"
           },
           {
             "name": "Irreverente",
             "description": "Combinação irreverente de sabores que surpreende",
             "price": "€12.50",
-            "image": "/menu/burger-irreverente.jpg"
+            "image": "/menu/burger-irreverent.png"
           },
           {
             "name": "Audaz",
             "description": "Um hambúrguer audaz com ingredientes selecionados",
             "price": "€12.50",
-            "image": "/menu/burger-audaz.jpg"
+            "image": "/menu/burger-bold.png"
           },
           {
             "name": "Intenso",
             "description": "Sabor intenso com queijo derretido e molho da casa",
             "price": "€12.50",
-            "image": "/menu/burger-intenso.jpg"
+            "image": "/menu/burger-intense.png"
           },
           {
             "name": "Brave",
             "description": "Para os mais corajosos — sabor forte e marcante",
             "price": "€12.50",
-            "image": "/menu/burger-brave.jpg"
+            "image": "/menu/burger-brave.png"
           },
           {
             "name": "Natura",
             "description": "Ingredientes naturais e frescos da época",
             "price": "€12.50",
-            "image": "/menu/burger-natura.jpg"
+            "image": "/menu/burger-simple.png"
           },
           {
             "name": "Daring",
             "description": "Uma combinação ousada que desafia o convencional",
             "price": "€12.50",
-            "image": "/menu/burger-daring.jpg"
+            "image": "/menu/burger-daring.png"
           },
           {
             "name": "Valente",
             "description": "Generoso em tamanho e em sabor",
             "price": "€12.50",
-            "image": "/menu/burger-valente.jpg"
+            "image": "/menu/burger-valente.png"
           },
           {
             "name": "Arrojado",
             "description": "Uma criação arrojada com ingredientes locais",
             "price": "€12.50",
-            "image": "/menu/burger-arrojado.jpg"
+            "image": "/menu/burger-arrojado.png"
           },
           {
             "name": "Empoderada",
             "description": "Sabores fortes e equilibrados numa combinação única",
             "price": "€12.50",
-            "image": "/menu/burger-empoderada.jpg"
+            "image": "/menu/burger-empoderada.png"
           }
         ]
       },
@@ -342,19 +342,19 @@
             "name": "Destemido",
             "description": "Hambúrguer de peixe fresco com molho tártaro artesanal",
             "price": "€12.50",
-            "image": "/menu/burger-destemido.jpg"
+            "image": "/menu/burger-fearless.png"
           },
           {
             "name": "Charming",
             "description": "Peixe grelhado com toppings frescos e delicados",
             "price": "€12.50",
-            "image": "/menu/burger-charming.jpg"
+            "image": "/menu/burger-charming.png"
           },
           {
             "name": "Bacalhau",
             "description": "O clássico português reinventado em hambúrguer",
             "price": "€12.50",
-            "image": "/menu/burger-bacalhau.jpg"
+            "image": "/menu/burger-codfish.png"
           }
         ]
       },
@@ -366,13 +366,13 @@
             "name": "Tofu",
             "description": "Hambúrguer de tofu grelhado com vegetais frescos",
             "price": "€11.50",
-            "image": "/menu/burger-tofu.jpg"
+            "image": "/menu/burger-tofu.png"
           },
           {
             "name": "Seitan",
             "description": "Hambúrguer de seitan com molho especial da casa",
             "price": "€11.50",
-            "image": "/menu/burger-seitan.jpg"
+            "image": "/menu/burger-seitan.png"
           }
         ]
       },
@@ -384,19 +384,19 @@
             "name": "Moulin Rouge",
             "description": "Uma criação especial do chef — sabor único e memorável",
             "price": "€12.50",
-            "image": "/menu/especialidade-moulin-rouge.jpg"
+            "image": "/menu/specialty-moulin-rouge.png"
           },
           {
             "name": "Gutsy Special Junior",
             "description": "Versão júnior ideal para os mais pequenos",
             "price": "€11.90",
-            "image": "/menu/especialidade-junior.jpg"
+            "image": "/menu/specialty-gutsy-junior.png"
           },
           {
             "name": "Irreverente Saloio",
             "description": "A versão saloio do nosso Irreverente — com toque regional",
             "price": "€12.50",
-            "image": "/menu/especialidade-saloio.jpg"
+            "image": "/menu/specialty-irreverente-saloio.png"
           }
         ]
       },
@@ -408,61 +408,61 @@
             "name": "Mojito",
             "description": "Rum, sumo de lima, hortelã, açúcar",
             "price": "€6.50",
-            "image": "/menu/cocktail-mojito.jpg"
+            "image": "/menu/cocktail-mojito.png"
           },
           {
             "name": "Caipirinha",
             "description": "Cachaça, sumo de lima, açúcar",
             "price": "€6.50",
-            "image": "/menu/cocktail-caipirinha.jpg"
+            "image": "/menu/cocktail-caipirinha.png"
           },
           {
             "name": "Caipiroska",
             "description": "Vodka, sumo de lima, açúcar",
             "price": "€6.50",
-            "image": "/menu/cocktail-caipiroska.jpg"
+            "image": "/menu/cocktail-caipiroska.png"
           },
           {
             "name": "Margarita Sour",
             "description": "Tequila, sumo de lima, Cointreau, açúcar",
             "price": "€7.00",
-            "image": "/menu/cocktail-margarita-sour.jpg"
+            "image": "/menu/cocktail-margarita-sour.png"
           },
           {
             "name": "Margarita de Morango",
             "description": "Tequila, sumo de lima, morango, Cointreau, açúcar",
             "price": "€7.95",
-            "image": "/menu/cocktail-strawberry-margarita.jpg"
+            "image": "/menu/cocktail-strawberry-margarita.png"
           },
           {
             "name": "Negroni",
             "description": "Gin, vermute, Campari, laranja",
             "price": "€7.95",
-            "image": "/menu/cocktail-negroni.jpg"
+            "image": "/menu/cocktail-negroni.png"
           },
           {
             "name": "Pisco Sour",
             "description": "Pisco, sumo de lima, clara de ovo, açúcar, bitters",
             "price": "€8.95",
-            "image": "/menu/cocktail-pisco-sour.jpg"
+            "image": "/menu/cocktail-pisco-sour.png"
           },
           {
             "name": "Sex on the Beach",
             "description": "Vodka, sumo de laranja, licor de pêssego, grenadine",
             "price": "€8.95",
-            "image": "/menu/cocktail-sex-on-the-beach.jpg"
+            "image": "/menu/cocktail-sex-on-the-beach.png"
           },
           {
             "name": "Aperol Spritz",
             "description": "Aperol, laranja, prosecco, água com gás",
             "price": "€8.95",
-            "image": "/menu/cocktail-aperol-spritz.jpg"
+            "image": "/menu/cocktail-aperol-spritz.png"
           },
           {
             "name": "Chola María",
             "description": "Tequila, pisco, sumo de lima, tamarindo, clara de ovo, manjericão fresco",
             "price": "€9.50",
-            "image": "/menu/cocktail-chola-maria.jpg"
+            "image": "/menu/cocktail-chola-maria.png"
           }
         ]
       },
@@ -474,25 +474,25 @@
             "name": "Hambúrguer à Parmegiana",
             "description": "Hambúrguer panado e frito, molho de tomate caseiro, gratinado de mozzarella e parmesão, com batatas fritas",
             "price": "€12.75",
-            "image": "/menu/plate-parmegiana.jpg"
+            "image": "/menu/plate-parmegiana.png"
           },
           {
             "name": "Hambúrguer Grelhado – Molho Marrare",
             "description": "Hambúrguer grelhado, molho demi-glace e natas, batatas fritas e ovo estrelado",
             "price": "€12.75",
-            "image": "/menu/plate-marrare.jpg"
+            "image": "/menu/plate-marrare.png"
           },
           {
             "name": "Hambúrguer Grelhado – Molho de Cogumelos",
             "description": "Hambúrguer grelhado, molho de cogumelos da floresta, batatas fritas e ovo estrelado",
             "price": "€12.75",
-            "image": "/menu/plate-mushroom.jpg"
+            "image": "/menu/plate-mushroom.png"
           },
           {
             "name": "Hambúrguer Grelhado – Molho de Mostarda",
             "description": "Hambúrguer grelhado, molho demi-glace de mostarda antiga e natas, batatas fritas e ovo estrelado",
             "price": "€12.75",
-            "image": "/menu/plate-mustard.jpg"
+            "image": "/menu/plate-mustard.png"
           }
         ]
       },
@@ -504,19 +504,19 @@
             "name": "Gutsy (Exagerado)",
             "description": "480g 100% carne bovina, bacon, queijo São Jorge, fiambre, ovo estrelado, maionese gutsy, rúcula e tomate",
             "price": "€24.95",
-            "image": "/menu/sharing-gutsy.jpg"
+            "image": "/menu/sharing-gutsy.png"
           },
           {
             "name": "Família",
             "description": "8 mini hambúrgueres: Corajoso, Aventureiro, Seitan, Irreverente, Audaz, Intenso, Destemido, Valente Chicken",
             "price": "€29.95",
-            "image": "/menu/sharing-family.jpg"
+            "image": "/menu/sharing-family.png"
           },
           {
             "name": "Gutsy Família",
             "description": "8 mini hambúrgueres: Corajoso, Aventureiro, Sassy, Irreverente, Audaz, Intenso, Destemido, Daring",
             "price": "€29.95",
-            "image": "/menu/sharing-gutsy-family.jpg"
+            "image": "/menu/sharing-gutsy-family.png"
           }
         ]
       },
@@ -528,43 +528,43 @@
             "name": "Wrap Vegetariano",
             "description": "Cogumelos portobello, vegetais salteados, maionese de azeitona e alho, rúcula, tomate",
             "price": "~€9",
-            "image": "/menu/wrap-vegetable.jpg"
+            "image": "/menu/wrap-vegetable.png"
           },
           {
             "name": "Wrap de Frango",
             "description": "Tiras de frango panado, molho caesar, abacate, manga, rúcula",
             "price": "~€9",
-            "image": "/menu/wrap-chicken.jpg"
+            "image": "/menu/wrap-chicken.png"
           },
           {
             "name": "Wrap",
             "description": "Abacate, manga, rúcula — à escolha: carne / frango panado / salmão e camarão (+€1.30) / vegan",
             "price": "€9.20",
-            "image": "/menu/wrap-classic.jpg"
+            "image": "/menu/wrap-classic.png"
           },
           {
             "name": "Salada de Salmão (Completa)",
             "description": "Salmão fumado, ovo cozido, agrião, espinafre, rúcula, abacate, tomate cherry, coentros, croutons, EVOO e vinagre balsâmico",
             "price": "~€10",
-            "image": "/menu/salad-salmon.jpg"
+            "image": "/menu/salad-salmon.png"
           },
           {
             "name": "Salada de Frango",
             "description": "Frango em molho de iogurte, agrião, espinafre, rúcula, cebolinho, feta, hortelã, malagueta, manga, abacate",
             "price": "~€10",
-            "image": "/menu/salad-chicken.jpg"
+            "image": "/menu/salad-chicken.png"
           },
           {
             "name": "Salada New Summer",
             "description": "Alface, cenoura, couve roxa, manga, morango, pêssego, tomate cherry, queijo fresco, sésamo, vinagrete",
             "price": "~€9",
-            "image": "/menu/salad-new-summer.jpg"
+            "image": "/menu/salad-new-summer.png"
           },
           {
             "name": "Menu Crianças",
             "description": "2 mini hambúrgueres Natura + bebida (limonada, água ou refrigerante) — crianças até 12 anos",
             "price": "~€7",
-            "image": "/menu/kids-menu.jpg"
+            "image": "/menu/kids-menu.png"
           }
         ]
       },
@@ -576,49 +576,49 @@
             "name": "Imperial / Caneca",
             "description": "Cerveja de pressão, shandy ou tango (cerveja + groselha)",
             "price": "~€3",
-            "image": "/menu/drinks-beer.jpg"
+            "image": "/menu/drinks-beer.png"
           },
           {
             "name": "Cerveja Artesanal",
             "description": "Seleção rotativa de cervejas artesanais",
             "price": "~€4",
-            "image": "/menu/drinks-craft-beer.jpg"
+            "image": "/menu/drinks-craft-beer.png"
           },
           {
             "name": "Cidra",
             "description": "Bandida do Pomar",
             "price": "~€3",
-            "image": "/menu/drinks-cider.jpg"
+            "image": "/menu/drinks-cider.png"
           },
           {
             "name": "Limonada Natural",
             "description": "Espremida na hora, sem açúcar adicionado",
             "price": "€2.50",
-            "image": "/menu/drinks-lemonade.jpg"
+            "image": "/menu/drinks-lemonade.png"
           },
           {
             "name": "Limonada de Morango",
             "description": "Limonada de morango, sem açúcar adicionado",
             "price": "€2.80",
-            "image": "/menu/drinks-strawberry-lemonade.jpg"
+            "image": "/menu/drinks-strawberry-lemonade.png"
           },
           {
             "name": "Limonada de Ananás e Hortelã",
             "description": "Limonada de ananás e hortelã, sem açúcar adicionado",
             "price": "€2.80",
-            "image": "/menu/drinks-pineapple-lemonade.jpg"
+            "image": "/menu/drinks-pineapple-lemonade.png"
           },
           {
             "name": "Sumo de Laranja",
             "description": "Sumo de laranja natural",
             "price": "€2.95",
-            "image": "/menu/drinks-oj.jpg"
+            "image": "/menu/drinks-oj.png"
           },
           {
             "name": "Café",
             "description": "Expresso",
             "price": "€1.00",
-            "image": "/menu/drinks-espresso.jpg"
+            "image": "/menu/drinks-espresso.png"
           }
         ]
       },
@@ -630,37 +630,37 @@
             "name": "Vinha do Conde (Branco)",
             "description": "Vinho branco, Alentejo 75cl",
             "price": "€14.95",
-            "image": "/menu/wine-white.jpg"
+            "image": "/menu/wine-white.png"
           },
           {
             "name": "Catarina (Branco)",
             "description": "Vinho branco, Península de Setúbal 75cl",
             "price": "€15.95",
-            "image": "/menu/wine-catarina.jpg"
+            "image": "/menu/wine-catarina.png"
           },
           {
             "name": "Conde Vimioso Sommelier Edition",
             "description": "Vinho branco, Tejo/Lisboa 75cl",
             "price": "€19.00",
-            "image": "/menu/wine-conde.jpg"
+            "image": "/menu/wine-conde.png"
           },
           {
             "name": "Vinho da Casa (Copo)",
             "description": "Copo de vinho, Alentejo",
             "price": "€3.95",
-            "image": "/menu/wine-glass.jpg"
+            "image": "/menu/wine-glass.png"
           },
           {
             "name": "Vinho Verde",
             "description": "Muralha de Monção ou Quinta da Calçada 75cl",
             "price": "~€12",
-            "image": "/menu/wine-verde.jpg"
+            "image": "/menu/wine-verde.png"
           },
           {
             "name": "Sangria",
             "description": "Sangria de vinho tinto ou branco",
             "price": "~€8",
-            "image": "/menu/wine-sangria.jpg"
+            "image": "/menu/wine-sangria.png"
           }
         ]
       },
@@ -672,37 +672,37 @@
             "name": "Porto Tónico",
             "description": "Vinho do Porto com tónica",
             "price": "€5.95",
-            "image": "/menu/spirit-porto-tonico.jpg"
+            "image": "/menu/spirit-porto-tonico.png"
           },
           {
             "name": "Gin Hayman's",
             "description": "Gin Hayman's com citrinos",
             "price": "€6.50",
-            "image": "/menu/spirit-gin.jpg"
+            "image": "/menu/spirit-gin.png"
           },
           {
             "name": "Gin Hendrick's",
             "description": "Gin premium",
             "price": "€9.50",
-            "image": "/menu/spirit-hendricks.jpg"
+            "image": "/menu/spirit-hendricks.png"
           },
           {
             "name": "Ginja de Óbidos",
             "description": "Licor tradicional português de ginja",
             "price": "€3.90",
-            "image": "/menu/spirit-ginja.jpg"
+            "image": "/menu/spirit-ginja.png"
           },
           {
             "name": "Licor Beirão",
             "description": "Icónico licor português de ervas",
             "price": "€4.90",
-            "image": "/menu/spirit-beirao.jpg"
+            "image": "/menu/spirit-beirao.png"
           },
           {
             "name": "Porto Monge Tawny",
             "description": "Vinho do Porto",
             "price": "€3.90",
-            "image": "/menu/spirit-porto.jpg"
+            "image": "/menu/spirit-porto.png"
           }
         ]
       }
