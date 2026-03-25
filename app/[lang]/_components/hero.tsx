@@ -94,7 +94,7 @@ export default function Hero({ dict }: { dict: HeroDict }) {
           }}
         >
           <Image
-            src="/hero-burguer.jpg"
+            src="/hero-black.jpg"
             alt="Hero image of a delicious burger with smoke"
             fill
             sizes="100vw"
@@ -108,11 +108,46 @@ export default function Hero({ dict }: { dict: HeroDict }) {
 
       <div className="absolute inset-0 z-5 pointer-events-none overflow-hidden">
         <SmokeWisp delay={0} duration={4} left="39%" size={80} blur={12} hidden={prefersReduced} />
-        <SmokeWisp delay={0.8} duration={5.2} left="48%" size={100} blur={16} hidden={prefersReduced} />
-        <SmokeWisp delay={1.6} duration={4.5} left="43%" size={60} blur={10} hidden={prefersReduced} />
-        <SmokeWisp delay={2.6} duration={5.8} left="53%" size={90} blur={14} hidden={prefersReduced} />
-        <SmokeWisp delay={3.4} duration={6} left="46%" size={120} blur={20} hidden={prefersReduced} />
-        <SmokeWisp delay={0.3} duration={4.8} left="51%" size={50} blur={8} hidden={prefersReduced} />
+        <SmokeWisp
+          delay={0.8}
+          duration={5.2}
+          left="48%"
+          size={100}
+          blur={16}
+          hidden={prefersReduced}
+        />
+        <SmokeWisp
+          delay={1.6}
+          duration={4.5}
+          left="43%"
+          size={60}
+          blur={10}
+          hidden={prefersReduced}
+        />
+        <SmokeWisp
+          delay={2.6}
+          duration={5.8}
+          left="53%"
+          size={90}
+          blur={14}
+          hidden={prefersReduced}
+        />
+        <SmokeWisp
+          delay={3.4}
+          duration={6}
+          left="46%"
+          size={120}
+          blur={20}
+          hidden={prefersReduced}
+        />
+        <SmokeWisp
+          delay={0.3}
+          duration={4.8}
+          left="51%"
+          size={50}
+          blur={8}
+          hidden={prefersReduced}
+        />
         <SmokeWisp delay={2} duration={5} left="56%" size={70} blur={11} hidden={prefersReduced} />
       </div>
 
