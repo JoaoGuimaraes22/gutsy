@@ -123,44 +123,44 @@
     "subtitle": "Opiniões reais dos nossos clientes.",
     "items": [
       {
-        "quote": "Hambúrgueres fantásticos e cocktails muito bem feitos. O ambiente é descontraído e perfeito para uma noite entre amigos.",
-        "name": "Ana P.",
-        "role": "Carcavelos",
+        "quote": "Sem saber onde jantar com amigos num sábado à noite, deparámo-nos com o Gutsy. Melhor escolha! Desde as sugestões até aos pratos bem confecionados. O Diogo foi paciente, simpático e acolhedor. O cocktail de entrada era de bradar aos céus.",
+        "name": "Susana Rodrigues",
+        "role": "Crítica Google",
+        "avatar": null,
+        "rating": 5
+      },
+      {
+        "quote": "A comida estava ótima, com opções vegetarianas criativas e cheias de sabor. A sangria estava tão boa que nem deu tempo de tirar foto! A esplanada é super agradável, perfeita para uma boa refeição ao ar livre. Atendimento impecável.",
+        "name": "Mateus Felipe",
+        "role": "Crítica Google",
+        "avatar": null,
+        "rating": 5
+      },
+      {
+        "quote": "Amo experimentar os hambúrgueres artesanais do Gutsy, provei o Intenso e saí apaixonada! O serviço foi 5 estrelas — quando pedi para trocar o queijo por alface, fizeram sem problema. Recomendo pagar mais €1,30 pelas batatas doces fritas, valem muito a pena!",
+        "name": "Mar Dragon",
+        "role": "Crítica Google",
+        "avatar": null,
+        "rating": 5
+      },
+      {
+        "quote": "Estava tudo muito bom — desde o atendimento pelo Diogo e pelo Leonardo, as bebidas fantásticas, a comida excepcional e as sobremesas também. Apresentação muito boa só superada pelo sabor. Adorámos!",
+        "name": "Graça Diogo",
+        "role": "Crítica Google",
+        "avatar": null,
+        "rating": 5
+      },
+      {
+        "quote": "Comi aqui várias vezes durante a minha viagem de trabalho de 2 semanas e fiquei impressionada todas as vezes. A comida é muito boa e o atendimento é excelente. O pessoal é simpático e muito acolhedor. Definitivamente recomendado.",
+        "name": "Michelle Mertens",
+        "role": "Crítica Google",
         "avatar": null,
         "rating": 4
       },
       {
-        "quote": "O Corajoso é incrível — ingredientes de qualidade que fazem toda a diferença. Voltamos sempre!",
-        "name": "Miguel R.",
-        "role": "Carcavelos",
-        "avatar": null,
-        "rating": 4
-      },
-      {
-        "quote": "Ótima esplanada, cocktails excelentes e hambúrgueres bem servidos. Um achado em Carcavelos.",
-        "name": "Tom H.",
-        "role": "Cascais",
-        "avatar": null,
-        "rating": 4
-      },
-      {
-        "quote": "Fomos com as crianças e adoraram o menu júnior. Espaço acolhedor e simpático para famílias.",
-        "name": "Sofia M.",
-        "role": "Oeiras",
-        "avatar": null,
-        "rating": 4
-      },
-      {
-        "quote": "O Aperol Spritz e o hambúrguer Sassy são uma combinação perfeita. Adorámos a experiência.",
-        "name": "Pedro C.",
-        "role": "Carcavelos",
-        "avatar": null,
-        "rating": 4
-      },
-      {
-        "quote": "Bom ambiente, boa comida, preço justo. Já é o nosso spot de sexta-feira à noite.",
-        "name": "Mariana L.",
-        "role": "Parede",
+        "quote": "O Gutsy de Carcavelos tem uma ótima esplanada numa praceta tranquila. O menu é muito interessante, com propostas para todos os gostos. Comi o Irreverente — carne de qualidade com ingredientes naturais e frescos. Boa esplanada e bons hambúrgueres. Recomendo.",
+        "name": "Diogo Marques",
+        "role": "Crítica Google",
         "avatar": null,
         "rating": 4
       }

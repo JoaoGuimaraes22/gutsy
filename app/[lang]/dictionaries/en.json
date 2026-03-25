@@ -123,46 +123,46 @@
     "subtitle": "Real feedback from real burger fans.",
     "items": [
       {
-        "quote": "Best burger in Lisbon, hands down. The smash technique makes all the difference — that crust is incredible.",
-        "name": "Ana P.",
-        "role": "Lisboa",
+        "quote": "We didn't know where to eat on a Saturday night with friends, and we stumbled upon Gutsy. Best choice! From the suggestions to the perfectly prepared dishes. Especially Diogo who served us — patient, friendly, and welcoming. The welcome cocktail was out of this world.",
+        "name": "Susana Rodrigues",
+        "role": "Google Review",
         "avatar": null,
         "rating": 5
       },
       {
-        "quote": "I've been coming every week since they opened. The Smoky burger is absolutely unreal. Never gets old.",
-        "name": "Miguel R.",
-        "role": "Lisbon",
+        "quote": "The food was great, with creative and flavourful vegetarian options. The sangria was so good there wasn't even time to take a photo! The terrace is lovely, perfect for a relaxed outdoor meal. Impeccable service, very friendly and helpful.",
+        "name": "Mateus Felipe",
+        "role": "Google Review",
         "avatar": null,
         "rating": 5
       },
       {
-        "quote": "Finally, proper American-style smash burgers in Portugal. Gutsy absolutely nailed it. Worth every cent.",
-        "name": "Tom H.",
-        "role": "Expat, Lisboa",
+        "quote": "I love trying the artisan burgers at Gutsy. I had the Intenso and fell in love! The service was 5 stars — when I asked to swap the cheese for lettuce, they did it with no fuss. Definitely pay the extra €1.30 for sweet potato fries, totally worth it!",
+        "name": "Mar Dragon",
+        "role": "Google Review",
         "avatar": null,
         "rating": 5
       },
       {
-        "quote": "Perfect for a quick lunch. Always fresh, always hot, always exactly what you want from a burger joint.",
-        "name": "Sofia M.",
-        "role": "Bairro Alto",
+        "quote": "Everything was amazing — from the service by Diogo and Leonardo, to the fantastic drinks, exceptional food, and desserts too. Beautiful presentation only topped by the flavour. We loved it.",
+        "name": "Graça Diogo",
+        "role": "Google Review",
         "avatar": null,
         "rating": 5
       },
       {
-        "quote": "The loaded fries alone are worth the trip. I don't know what they put in that cheese sauce but I need more.",
-        "name": "Pedro C.",
-        "role": "Lisboa",
+        "quote": "I ate here several times during my two-week work trip and was impressed every time. The food is delicious and the service is excellent. The staff is friendly and very welcoming. Definitely recommended.",
+        "name": "Michelle Mertens",
+        "role": "Google Review",
         "avatar": null,
-        "rating": 5
+        "rating": 4
       },
       {
-        "quote": "Great vibe, great food, great price. This is our go-to Friday night spot. The milkshakes are dangerous.",
-        "name": "Mariana L.",
-        "role": "Chiado",
+        "quote": "Gutsy in Carcavelos has a great terrace on a quiet square. The menu is very interesting, with options for all tastes. I had the Irreverent — excellent quality meat with fresh, natural ingredients. Good terrace and good burgers. You can't go wrong.",
+        "name": "Diogo Marques",
+        "role": "Google Review",
         "avatar": null,
-        "rating": 5
+        "rating": 4
       }
     ]
   },

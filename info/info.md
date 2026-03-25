@@ -19,6 +19,7 @@
 - **Email:** gutsyoriginalpt@gmail.com
 - **Instagram:** [@gutsyoriginal](https://www.instagram.com/gutsyoriginal/)
 - **Facebook:** [GutsyOriginal](https://www.facebook.com/GutsyOriginal)
+- **Google Maps Link:** https://www.google.com/maps/place//data=!4m2!3m1!1s0xd1ec8c70a222979:0xb5caa1a47d872869?sa=X&ved=1t:8290&ictx=111
 
 ### Hours
 
