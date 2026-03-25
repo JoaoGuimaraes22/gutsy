@@ -1,7 +1,12 @@
 {
   "metadata": {
+    "name": "Gutsy – Hambúrguer Artesanal & Cocktails",
     "title": "Gutsy – Hambúrguer Artesanal & Cocktails | Carcavelos",
-    "description": "Hambúrgueres artesanais com ingredientes de qualidade e cocktails de autor em Carcavelos. Reserva a tua mesa online."
+    "description": "Hambúrgueres artesanais com ingredientes de qualidade e cocktails de autor em Carcavelos. Reserva a tua mesa online.",
+    "phone": "+351 21 828 5795",
+    "email": "gutsyoriginalpt@gmail.com",
+    "address": "Praça Do Junqueiro 6B, 2775-597 Carcavelos",
+    "type": "Restaurant"
   },
   "home": {
     "title": "Bem-vindo",
@@ -91,12 +96,12 @@
         "description": "Mais de 15 receitas únicas com carne de qualidade, queijo São Jorge e ingredientes locais selecionados."
       },
       {
-        "icon": "🍸",
+        "icon": "🍹",
         "title": "Cocktails de Autor",
         "description": "Mojito, Caipirinha, Negroni, Aperol Spritz e muito mais — preparados com cuidado e servidos com estilo."
       },
       {
-        "icon": "🌿",
+        "icon": "🌱",
         "title": "Opções Vegetarianas & Vegan",
         "description": "Hambúrgueres de Tofu e Seitan para quem prefere uma alternativa sem carne, sem perder o sabor."
       },
@@ -171,46 +176,46 @@
     "title_line2": "FREQUENTES",
     "items": [
       {
+        "question": "Como posso reservar mesa?",
+        "answer": "Podes reservar diretamente no nosso site ou ligar para o +351 21 828 5795. Walk-ins também são bem-vindos — temos todo o gosto em receber-te se houver lugar."
+      },
+      {
+        "question": "Têm opções vegetarianas?",
+        "answer": "Claro! Temos hambúrgueres de Tofu e de Seitan, wrap vegetariano e várias saladas frescas. Há opções para todos os gostos."
+      },
+      {
         "question": "Quais são os vossos horários?",
         "answer": "Segunda a quinta das 12h às 23h, sexta e sábado das 12h às 23h30, e domingo das 12h às 23h."
       },
       {
-        "question": "Têm opções vegetarianas?",
-        "answer": "Sim! Temos hambúrgueres de Tofu e de Seitan, preparados com o mesmo cuidado e sabor dos nossos hambúrgueres de carne."
-      },
-      {
-        "question": "Posso reservar mesa?",
-        "answer": "Claro! Podes reservar diretamente no nosso site ou ligar para o +351 21 828 5795. Walk-ins também são bem-vindos."
+        "question": "Têm estacionamento?",
+        "answer": "Sim! Temos estacionamento gratuito disponível perto do restaurante."
       },
       {
         "question": "Têm esplanada?",
-        "answer": "Sim, temos uma esplanada agradável. Também oferecemos WiFi grátis, estacionamento gratuito nas proximidades e acessibilidade para cadeiras de rodas."
+        "answer": "Sim, temos uma esplanada agradável numa praceta tranquila. É o sítio perfeito para uma refeição descontraída em Carcavelos, especialmente nos dias de sol."
       },
       {
-        "question": "Fazem takeaway?",
-        "answer": "Sim, oferecemos serviço de takeaway. Podes encomendar diretamente no restaurante ou ligar para o +351 21 828 5795."
-      },
-      {
-        "question": "Têm opções para crianças?",
-        "answer": "Temos cadeirões para crianças e o Gutsy Special Junior (€11.90) — perfeito para os mais pequenos."
+        "question": "O Gutsy é adequado para crianças?",
+        "answer": "Claro que sim! Temos cadeirões, menu infantil com mini hambúrgueres e bebida, e um ambiente acolhedor para famílias."
       }
     ]
   },
   "contact": {
     "title_line1": "VÊM",
     "title_line2": "VISITAR-NOS",
-    "body": "Estamos em Carcavelos, prontos para vos receber. Reservem mesa, passem para um cocktail ou venham matar a fome com um hambúrguer artesanal.",
+    "body": "Estamos em Carcavelos, prontos para vos receber. Reservem mesa, passem para um cocktail ou venham matar a fome com um hambúrguer artesanal. Segue-nos no Instagram @gutsyoriginal e Facebook /GutsyOriginal.",
     "book_cta": "Reservar Mesa",
     "order_cta": "Pedir no Uber Eats",
     "phone": "+351 21 828 5795",
     "email": "gutsyoriginalpt@gmail.com",
     "address": "Praça Do Junqueiro 6B, 2775-597 Carcavelos",
     "hours": "Seg–Qui 12h–23h · Sex–Sáb 12h–23h30 · Dom 12h–23h",
-    "map_link": "https://maps.google.com/?q=Praça+Do+Junqueiro+6B+Carcavelos",
+    "map_link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0xd1ec8c70a222979:0xb5caa1a47d872869",
     "order_url": "https://www.ubereats.com/pt/store/gutsy-carcavelos/6hCviMoCWMepsbAN5RdGGg",
     "map": {
       "address": "Praça Do Junqueiro 6B\n2775-597 Carcavelos",
-      "mapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3113.5!2d-9.338!3d38.688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sPraça+Do+Junqueiro+6B+Carcavelos!5e0!3m2!1spt!2spt!4v1",
+      "mapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3113!2d-9.3434!3d38.6840!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd1ec8c70a222979%3A0xb5caa1a47d872869!2sGutsy!5e0!3m2!1spt!2spt",
       "mapTitle": "Localização do Gutsy em Carcavelos"
     }
   },
@@ -221,7 +226,7 @@
     "hours": "Seg–Qui 12h–23h · Sex–Sáb 12h–23h30 · Dom 12h–23h",
     "phone": "+351 21 828 5795",
     "email": "gutsyoriginalpt@gmail.com",
-    "copyright": "© 2025 Gutsy – Hambúrguer Artesanal & Cocktails. Todos os direitos reservados.",
+    "copyright": "© 2026 Gutsy – Hambúrguer Artesanal & Cocktails. Todos os direitos reservados.",
     "book_cta": "Reservar Mesa",
     "explore_label": "Explorar",
     "hours_label": "Horário",
@@ -256,145 +261,145 @@
     "chefs_pick": "Escolha do Chef",
     "categories": [
       {
-        "key": "burgers-carne",
+        "key": "burgers-meat",
         "label": "Hambúrgueres – Carne",
         "highlight_image": "/menu/burger-courageous.png",
         "items": [
           {
             "name": "Corajoso",
-            "description": "O nosso clássico hambúrguer artesanal com ingredientes premium",
-            "price": "€12.50",
+            "description": "100% carne bovina, queijo São Jorge, jalapeños, rúcula, tomate fresco em pão com sementes",
+            "price": "~€10",
             "image": "/menu/burger-courageous.png"
           },
           {
             "name": "Aventureiro",
-            "description": "Para quem gosta de experimentar sabores ousados",
-            "price": "€12.50",
+            "description": "100% carne bovina, queijo São Jorge, tomate seco, pesto de manjericão, rúcula, tomate em pão com sementes",
+            "price": "~€10",
             "image": "/menu/burger-adventurous.png"
           },
           {
             "name": "Sassy",
-            "description": "Com um toque atrevido e queijo São Jorge",
-            "price": "€12.50",
+            "description": "100% carne bovina, pasta de alheira, couve portuguesa, ovo estrelado em pão com sementes",
+            "price": "~€10",
             "image": "/menu/burger-sassy.png"
           },
           {
             "name": "Irreverente",
-            "description": "Combinação irreverente de sabores que surpreende",
-            "price": "€12.50",
+            "description": "100% carne bovina, cogumelos portobello, vegetais salteados, rúcula, tomate em pão com sementes",
+            "price": "~€10",
             "image": "/menu/burger-irreverent.png"
           },
           {
             "name": "Audaz",
-            "description": "Um hambúrguer audaz com ingredientes selecionados",
-            "price": "€12.50",
+            "description": "100% carne bovina, bacon, queijo cheddar, rúcula, tomate em pão com sementes",
+            "price": "~€10",
             "image": "/menu/burger-bold.png"
           },
           {
             "name": "Intenso",
-            "description": "Sabor intenso com queijo derretido e molho da casa",
-            "price": "€12.50",
+            "description": "100% carne bovina, queijo de cabra, cebola roxa caramelizada, mel, rúcula, tomate em pão com sementes",
+            "price": "~€10",
             "image": "/menu/burger-intense.png"
           },
           {
             "name": "Brave",
-            "description": "Para os mais corajosos — sabor forte e marcante",
-            "price": "€12.50",
+            "description": "100% carne bovina, queijo flamengo, fiambre, rúcula, vinagrete balsâmico em pão com sementes",
+            "price": "~€10",
             "image": "/menu/burger-brave.png"
           },
           {
             "name": "Natura",
-            "description": "Ingredientes naturais e frescos da época",
-            "price": "€12.50",
+            "description": "100% carne bovina, rúcula, tomate em pão com sementes",
+            "price": "~€10",
             "image": "/menu/burger-simple.png"
           },
           {
             "name": "Daring",
-            "description": "Uma combinação ousada que desafia o convencional",
-            "price": "€12.50",
+            "description": "100% carne de picanha, queijo cheddar, ovo estrelado, rúcula, tomate em pão com sementes",
+            "price": "~€10",
             "image": "/menu/burger-daring.png"
           },
           {
             "name": "Valente",
-            "description": "Generoso em tamanho e em sabor",
-            "price": "€12.50",
+            "description": "100% carne bovina, queijo cheddar, rúcula, tomate fresco, ovo estrelado em pão",
+            "price": "~€10",
             "image": "/menu/burger-valente.png"
           },
           {
             "name": "Arrojado",
-            "description": "Uma criação arrojada com ingredientes locais",
-            "price": "€12.50",
+            "description": "100% carne bovina, linguiça toscana, cebola, molho de whisky, cebola crocante em brioche",
+            "price": "~€10",
             "image": "/menu/burger-arrojado.png"
           },
           {
             "name": "Empoderada",
-            "description": "Sabores fortes e equilibrados numa combinação única",
-            "price": "€12.50",
+            "description": "100% carne bovina, queijo São Jorge, cheddar, ananás grelhado, vinagrete, banana da Madeira",
+            "price": "€11.95",
             "image": "/menu/burger-empoderada.png"
           }
         ]
       },
       {
-        "key": "burgers-peixe",
+        "key": "burgers-fish",
         "label": "Hambúrgueres – Peixe",
         "items": [
           {
             "name": "Destemido",
-            "description": "Hambúrguer de peixe fresco com molho tártaro artesanal",
-            "price": "€12.50",
+            "description": "Hambúrguer de salmão e camarão, endro, cebolinho, rúcula, tomate em pão bolo do caco",
+            "price": "~€10",
             "image": "/menu/burger-fearless.png"
           },
           {
             "name": "Charming",
-            "description": "Peixe grelhado com toppings frescos e delicados",
-            "price": "€12.50",
+            "description": "Salmão e camarão grelhados, alface verde e roxa, tomate cherry, abacate, azeite de endro",
+            "price": "~€10",
             "image": "/menu/burger-charming.png"
           },
           {
             "name": "Bacalhau",
-            "description": "O clássico português reinventado em hambúrguer",
-            "price": "€12.50",
+            "description": "Hambúrguer de bacalhau, vegetais salteados, azeitona, maionese de alho e coentros em pão com sementes",
+            "price": "~€10",
             "image": "/menu/burger-codfish.png"
           }
         ]
       },
       {
-        "key": "burgers-vegetariano",
+        "key": "burgers-vegetarian",
         "label": "Hambúrgueres – Vegetariano",
         "items": [
           {
             "name": "Tofu",
-            "description": "Hambúrguer de tofu grelhado com vegetais frescos",
-            "price": "€11.50",
+            "description": "Hambúrguer de tofu, cebola roxa, rúcula, tomate em pão com sementes",
+            "price": "~€10",
             "image": "/menu/burger-tofu.png"
           },
           {
             "name": "Seitan",
-            "description": "Hambúrguer de seitan com molho especial da casa",
-            "price": "€11.50",
+            "description": "Hambúrguer de seitan, vegetais salteados, rúcula, tomate em pão com sementes",
+            "price": "~€10",
             "image": "/menu/burger-seitan.png"
           }
         ]
       },
       {
-        "key": "especialidades",
+        "key": "specialties",
         "label": "Especialidades",
         "items": [
           {
             "name": "Moulin Rouge",
-            "description": "Uma criação especial do chef — sabor único e memorável",
+            "description": "100% carne Angus, alface iceberg, tomate, emmental, bacon, molho de mostarda e limão em brioche",
             "price": "€12.50",
             "image": "/menu/specialty-moulin-rouge.png"
           },
           {
             "name": "Gutsy Special Junior",
-            "description": "Versão júnior ideal para os mais pequenos",
+            "description": "100% carne Angus, rúcula, tomate, queijo flamengo, bacon, fiambre, ovo estrelado em brioche",
             "price": "€11.90",
             "image": "/menu/specialty-gutsy-junior.png"
           },
           {
             "name": "Irreverente Saloio",
-            "description": "A versão saloio do nosso Irreverente — com toque regional",
+            "description": "100% carne Angus, rúcula, tomate, queijo amanteigado de ovelha, presunto ibérico, cebola confitada em brioche",
             "price": "€12.50",
             "image": "/menu/specialty-irreverente-saloio.png"
           }
@@ -521,7 +526,7 @@
         ]
       },
       {
-        "key": "wraps-saladas",
+        "key": "wraps-salads",
         "label": "Wraps & Saladas",
         "items": [
           {
@@ -755,7 +760,7 @@
     "subtitle": "Para partilhar com amigos e família. Porque a vida é melhor acompanhada.",
     "popular_label": "Melhor Valor",
     "cta": "Reservar Mesa",
-    "disclaimer": "Preços incluem IVA. Disponível para comer no local e takeaway.",
+    "disclaimer": "Preços incluem IVA. Disponível para comer no local.",
     "plans": [
       {
         "name": "Gutsy Exagerado",

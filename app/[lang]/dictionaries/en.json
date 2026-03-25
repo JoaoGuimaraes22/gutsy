@@ -1,11 +1,16 @@
 {
   "metadata": {
+    "name": "Gutsy – Hambúrguer Artesanal & Cocktails",
     "title": "Gutsy – Artisan Burgers & Cocktails | Carcavelos",
-    "description": "Artisan burgers with quality ingredients, cocktails, and good vibes in Carcavelos. Vegetarian options, outdoor seating, and free parking. Book a Table."
+    "description": "Artisan burgers with quality ingredients, cocktails, and good vibes in Carcavelos. Vegetarian options, outdoor seating, and free parking. Book a Table.",
+    "phone": "+351 21 828 5795",
+    "email": "gutsyoriginalpt@gmail.com",
+    "address": "Praça Do Junqueiro 6B, 2775-597 Carcavelos",
+    "type": "Restaurant"
   },
   "home": {
     "title": "Welcome",
-    "description": "This is the starting point of your project. Edit this page to get started."
+    "description": "Artisan burgers crafted with quality ingredients, cocktails, and enjoyable moments in Carcavelos."
   },
   "navbar": {
     "brand": "Gutsy",
@@ -206,11 +211,11 @@
     "email": "gutsyoriginalpt@gmail.com",
     "address": "Praça Do Junqueiro 6B, 2775-597 Carcavelos",
     "hours": "Mon–Thu 12:00–23:00 · Fri–Sat 12:00–23:30 · Sun 12:00–23:00",
-    "map_link": "https://maps.google.com/?q=Praça+Do+Junqueiro+6B+Carcavelos",
+    "map_link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0xd1ec8c70a222979:0xb5caa1a47d872869",
     "order_url": "https://www.ubereats.com/pt/store/gutsy-carcavelos/6hCviMoCWMepsbAN5RdGGg",
     "map": {
       "address": "Praça Do Junqueiro 6B\n2775-597 Carcavelos",
-      "mapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3113.2!2d-9.338!3d38.683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sPraça+Do+Junqueiro+6B+Carcavelos!5e0!3m2!1sen!2spt!4v1",
+      "mapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3113!2d-9.3434!3d38.6840!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd1ec8c70a222979%3A0xb5caa1a47d872869!2sGutsy!5e0!3m2!1spt!2spt",
       "mapTitle": "Gutsy – Artisan Burgers & Cocktails location"
     }
   },
@@ -221,7 +226,7 @@
     "hours": "Mon–Thu 12:00–23:00 · Fri–Sat 12:00–23:30 · Sun 12:00–23:00",
     "phone": "+351 21 828 5795",
     "email": "gutsyoriginalpt@gmail.com",
-    "copyright": "© 2025 Gutsy – Hambúrguer Artesanal & Cocktails. All rights reserved.",
+    "copyright": "© 2026 Gutsy – Hambúrguer Artesanal & Cocktails. All rights reserved.",
     "book_cta": "Book a Table",
     "explore_label": "Explore",
     "hours_label": "Hours",
@@ -825,7 +830,7 @@
       },
       {
         "label": "Cocktails",
-        "target": 15,
+        "target": 10,
         "suffix": "+"
       }
     ]
