@@ -263,79 +263,79 @@
       {
         "key": "burgers-meat",
         "label": "Burgers – Meat",
-        "highlight_image": "/menu/burger-courageous.png",
+        "highlight_image": "/menu/burger-courageous.webp",
         "items": [
           {
             "name": "Courageous",
             "description": "100% beef, São Jorge island cheese, jalapeño peppers, arugula, fresh tomato on seeded bun",
             "price": "~€10",
-            "image": "/menu/burger-courageous.png"
+            "image": "/menu/burger-courageous.webp"
           },
           {
             "name": "Adventurous",
             "description": "100% beef, São Jorge island cheese, dried tomato, basil pesto, arugula, tomato on seeded bun",
             "price": "~€10",
-            "image": "/menu/burger-adventurous.png"
+            "image": "/menu/burger-adventurous.webp"
           },
           {
             "name": "Sassy",
             "description": "100% beef, game meat paste (alheira sausage), collard greens, fried egg on seeded bun",
             "price": "~€10",
-            "image": "/menu/burger-sassy.png"
+            "image": "/menu/burger-sassy.webp"
           },
           {
             "name": "Irreverent",
             "description": "100% beef, portobello mushrooms, sautéed vegetables, arugula, tomato on seeded bun",
             "price": "~€10",
-            "image": "/menu/burger-irreverent.png"
+            "image": "/menu/burger-irreverent.webp"
           },
           {
             "name": "Bold",
             "description": "100% beef, bacon, cheddar cheese, arugula, tomato on seeded bun",
             "price": "~€10",
-            "image": "/menu/burger-bold.png"
+            "image": "/menu/burger-bold.webp"
           },
           {
             "name": "Intense",
             "description": "100% beef, goat cheese, caramelized red onion, honey, arugula, tomato on seeded bun",
             "price": "~€10",
-            "image": "/menu/burger-intense.png"
+            "image": "/menu/burger-intense.webp"
           },
           {
             "name": "Brave",
             "description": "100% beef, flamengo cheese, ham, arugula, balsamic vinaigrette on seeded bun",
             "price": "~€10",
-            "image": "/menu/burger-brave.png"
+            "image": "/menu/burger-brave.webp"
           },
           {
             "name": "Simple",
             "description": "100% beef, arugula, tomato on seeded bun",
             "price": "~€10",
-            "image": "/menu/burger-simple.png"
+            "image": "/menu/burger-simple.webp"
           },
           {
             "name": "Daring",
             "description": "100% picanha beef, cheddar cheese, fried egg, arugula, tomato on seeded bun",
             "price": "~€10",
-            "image": "/menu/burger-daring.png"
+            "image": "/menu/burger-daring.webp"
           },
           {
             "name": "Valente",
             "description": "100% beef, cheddar cheese, arugula, fresh tomato, fried egg on bun",
             "price": "~€10",
-            "image": "/menu/burger-valente.png"
+            "image": "/menu/burger-valente.webp"
           },
           {
             "name": "Arrojado",
             "description": "100% beef, tuscan sausage, onions, whisky sauce, crispy onions on brioche",
             "price": "~€10",
-            "image": "/menu/burger-arrojado.png"
+            "image": "/menu/burger-arrojado.webp"
           },
           {
             "name": "Empoderada",
             "description": "100% beef, São Jorge island cheese, cheddar, grilled pineapple, vinaigrette, Madeira banana",
             "price": "€11.95",
-            "image": "/menu/burger-empoderada.png"
+            "image": "/menu/burger-empoderada.webp"
           }
         ]
       },
@@ -347,19 +347,19 @@
             "name": "Fearless",
             "description": "Salmon & prawn burger, dill, chives, arugula, tomato on bolo do caco bun",
             "price": "~€10",
-            "image": "/menu/burger-fearless.png"
+            "image": "/menu/burger-fearless.webp"
           },
           {
             "name": "Charming",
             "description": "Broiled salmon & prawn, green & purple lettuce, cherry tomatoes, avocado, dill olive oil",
             "price": "~€10",
-            "image": "/menu/burger-charming.png"
+            "image": "/menu/burger-charming.webp"
           },
           {
             "name": "Codfish Burger",
             "description": "Codfish burger, sautéed greens, olive, garlic & coriander mayonnaise on seeded bun",
             "price": "~€10",
-            "image": "/menu/burger-codfish.png"
+            "image": "/menu/burger-codfish.webp"
           }
         ]
       },
@@ -371,13 +371,13 @@
             "name": "Tofu",
             "description": "Tofu burger, red onion, arugula, tomato on seeded bun",
             "price": "~€10",
-            "image": "/menu/burger-tofu.png"
+            "image": "/menu/burger-tofu.webp"
           },
           {
             "name": "Seitan",
             "description": "Seitan burger, sautéed vegetables, arugula, tomato on seeded bun",
             "price": "~€10",
-            "image": "/menu/burger-seitan.png"
+            "image": "/menu/burger-seitan.webp"
           }
         ]
       },
@@ -389,19 +389,19 @@
             "name": "Moulin Rouge",
             "description": "100% Angus beef, iceberg lettuce, tomato, emmental, bacon, mustard & lemon sauce on brioche",
             "price": "€12.50",
-            "image": "/menu/specialty-moulin-rouge.png"
+            "image": "/menu/specialty-moulin-rouge.webp"
           },
           {
             "name": "Gutsy Special Junior",
             "description": "100% Angus beef, arugula, tomato, flamengo cheese, bacon, baked ham, fried egg on brioche",
             "price": "€11.90",
-            "image": "/menu/specialty-gutsy-junior.png"
+            "image": "/menu/specialty-gutsy-junior.webp"
           },
           {
             "name": "Irreverente Saloio",
             "description": "100% Angus beef, arugula, tomato, sheep buttered cheese, iberian ham, onion confit on brioche",
             "price": "€12.50",
-            "image": "/menu/specialty-irreverente-saloio.png"
+            "image": "/menu/specialty-irreverente-saloio.webp"
           }
         ]
       },
@@ -413,61 +413,61 @@
             "name": "Mojito",
             "description": "Rum, lime juice, mint, sugar",
             "price": "€6.50",
-            "image": "/menu/cocktail-mojito.png"
+            "image": "/menu/cocktail-mojito.webp"
           },
           {
             "name": "Caipirinha",
             "description": "Cachaça, lime juice, sugar",
             "price": "€6.50",
-            "image": "/menu/cocktail-caipirinha.png"
+            "image": "/menu/cocktail-caipirinha.webp"
           },
           {
             "name": "Caipiroska",
             "description": "Vodka, lime juice, sugar",
             "price": "€6.50",
-            "image": "/menu/cocktail-caipiroska.png"
+            "image": "/menu/cocktail-caipiroska.webp"
           },
           {
             "name": "Margarita Sour",
             "description": "Tequila, lime juice, Cointreau, sugar",
             "price": "€7.00",
-            "image": "/menu/cocktail-margarita-sour.png"
+            "image": "/menu/cocktail-margarita-sour.webp"
           },
           {
             "name": "Strawberry Margarita",
             "description": "Tequila, lime juice, strawberry, Cointreau, sugar",
             "price": "€7.95",
-            "image": "/menu/cocktail-strawberry-margarita.png"
+            "image": "/menu/cocktail-strawberry-margarita.webp"
           },
           {
             "name": "Negroni",
             "description": "Gin, vermouth, Campari, orange",
             "price": "€7.95",
-            "image": "/menu/cocktail-negroni.png"
+            "image": "/menu/cocktail-negroni.webp"
           },
           {
             "name": "Pisco Sour",
             "description": "Pisco, lime juice, egg white, sugar, bitters",
             "price": "€8.95",
-            "image": "/menu/cocktail-pisco-sour.png"
+            "image": "/menu/cocktail-pisco-sour.webp"
           },
           {
             "name": "Sex on the Beach",
             "description": "Vodka, orange juice, peach liqueur, grenadine",
             "price": "€8.95",
-            "image": "/menu/cocktail-sex-on-the-beach.png"
+            "image": "/menu/cocktail-sex-on-the-beach.webp"
           },
           {
             "name": "Aperol Spritz",
             "description": "Aperol, orange, prosecco, sparkling water",
             "price": "€8.95",
-            "image": "/menu/cocktail-aperol-spritz.png"
+            "image": "/menu/cocktail-aperol-spritz.webp"
           },
           {
             "name": "Chola María",
             "description": "Tequila, pisco, lime juice, tamarind, egg white, fresh basil",
             "price": "€9.50",
-            "image": "/menu/cocktail-chola-maria.png"
+            "image": "/menu/cocktail-chola-maria.webp"
           }
         ]
       },
@@ -479,25 +479,25 @@
             "name": "Hambúrguer à Parmegiana",
             "description": "Breaded & fried burger, homemade tomato sauce, mozzarella & parmesan gratin, with french fries",
             "price": "€12.75",
-            "image": "/menu/plate-parmegiana.png"
+            "image": "/menu/plate-parmegiana.webp"
           },
           {
             "name": "Grilled Burger – Marrare Sauce",
             "description": "Grilled burger, demi-glace & cream sauce, french fries & fried egg",
             "price": "€12.75",
-            "image": "/menu/plate-marrare.png"
+            "image": "/menu/plate-marrare.webp"
           },
           {
             "name": "Grilled Burger – Mushroom Sauce",
             "description": "Grilled burger, mixed forest mushroom sauce, french fries & fried egg",
             "price": "€12.75",
-            "image": "/menu/plate-mushroom.png"
+            "image": "/menu/plate-mushroom.webp"
           },
           {
             "name": "Grilled Burger – Mustard Sauce",
             "description": "Grilled burger, old mustard demi-glace & cream sauce, french fries & fried egg",
             "price": "€12.75",
-            "image": "/menu/plate-mustard.png"
+            "image": "/menu/plate-mustard.webp"
           }
         ]
       },
@@ -509,19 +509,19 @@
             "name": "Gutsy (Exaggerated)",
             "description": "480g 100% beef, bacon, São Jorge cheese, baked ham, fried egg, gutsy mayo, arugula & tomato",
             "price": "€24.95",
-            "image": "/menu/sharing-gutsy.png"
+            "image": "/menu/sharing-gutsy.webp"
           },
           {
             "name": "Family",
             "description": "8 mini burgers: Corajoso, Aventureiro, Seitan, Irreverente, Audaz, Intenso, Destemido, Valente Chicken",
             "price": "€29.95",
-            "image": "/menu/sharing-family.png"
+            "image": "/menu/sharing-family.webp"
           },
           {
             "name": "Gutsy Family",
             "description": "8 mini burgers: Courageous, Adventurous, Sassy, Irreverent, Bold, Intense, Fearless, Daring",
             "price": "€29.95",
-            "image": "/menu/sharing-gutsy-family.png"
+            "image": "/menu/sharing-gutsy-family.webp"
           }
         ]
       },
@@ -533,43 +533,43 @@
             "name": "Vegetable Wrap",
             "description": "Portobello mushrooms, sautéed vegetables, olive & garlic mayo, arugula, tomato",
             "price": "~€9",
-            "image": "/menu/wrap-vegetable.png"
+            "image": "/menu/wrap-vegetable.webp"
           },
           {
             "name": "Chicken Wrap",
             "description": "Breaded chicken strips, caesar sauce, avocado, mango, arugula",
             "price": "~€9",
-            "image": "/menu/wrap-chicken.png"
+            "image": "/menu/wrap-chicken.webp"
           },
           {
             "name": "Wrap",
             "description": "Avocado, mango, arugula — choice of beef, chicken, salmon & prawn (+€1.30), or vegan",
             "price": "€9.20",
-            "image": "/menu/wrap-classic.png"
+            "image": "/menu/wrap-classic.webp"
           },
           {
             "name": "Salmon Salad (Full)",
             "description": "Smoked salmon, boiled egg, watercress, spinach, rocket, avocado, cherry tomatoes, coriander, croutons, EVOO & balsamic",
             "price": "~€10",
-            "image": "/menu/salad-salmon.png"
+            "image": "/menu/salad-salmon.webp"
           },
           {
             "name": "Chicken Salad",
             "description": "Chicken in yogurt sauce, watercress, spinach, rocket, feta, mint, chili, mango, avocado",
             "price": "~€10",
-            "image": "/menu/salad-chicken.png"
+            "image": "/menu/salad-chicken.webp"
           },
           {
             "name": "New Summer Salad",
             "description": "Lettuce, carrot, purple cabbage, mango, strawberry, peach, cherry tomatoes, fresh cheese, sesame, vinaigrette",
             "price": "~€9",
-            "image": "/menu/salad-new-summer.png"
+            "image": "/menu/salad-new-summer.webp"
           },
           {
             "name": "Kids Menu",
             "description": "2 mini Simple burgers + drink (lemonade, water or soda) — children up to 12",
             "price": "~€7",
-            "image": "/menu/kids-menu.png"
+            "image": "/menu/kids-menu.webp"
           }
         ]
       },
@@ -581,49 +581,49 @@
             "name": "Pint of Beer",
             "description": "Draft beer, shandy or tango (beer + blackcurrant)",
             "price": "~€3",
-            "image": "/menu/drinks-beer.png"
+            "image": "/menu/drinks-beer.webp"
           },
           {
             "name": "Craft Beer Bottle",
             "description": "Rotating selection of craft beers",
             "price": "~€4",
-            "image": "/menu/drinks-craft-beer.png"
+            "image": "/menu/drinks-craft-beer.webp"
           },
           {
             "name": "Cider",
             "description": "Bandida do Pomar",
             "price": "~€3",
-            "image": "/menu/drinks-cider.png"
+            "image": "/menu/drinks-cider.webp"
           },
           {
             "name": "Natural Lemonade",
             "description": "Fresh-squeezed, no sugar added",
             "price": "€2.50",
-            "image": "/menu/drinks-lemonade.png"
+            "image": "/menu/drinks-lemonade.webp"
           },
           {
             "name": "Strawberry Lemonade",
             "description": "Strawberry lemonade, no sugar added",
             "price": "€2.80",
-            "image": "/menu/drinks-strawberry-lemonade.png"
+            "image": "/menu/drinks-strawberry-lemonade.webp"
           },
           {
             "name": "Pineapple & Mint Lemonade",
             "description": "Pineapple and mint lemonade, no sugar added",
             "price": "€2.80",
-            "image": "/menu/drinks-pineapple-lemonade.png"
+            "image": "/menu/drinks-pineapple-lemonade.webp"
           },
           {
             "name": "Orange Juice",
             "description": "Fresh-squeezed orange juice",
             "price": "€2.95",
-            "image": "/menu/drinks-oj.png"
+            "image": "/menu/drinks-oj.webp"
           },
           {
             "name": "Espresso",
             "description": "Single espresso",
             "price": "€1.00",
-            "image": "/menu/drinks-espresso.png"
+            "image": "/menu/drinks-espresso.webp"
           }
         ]
       },
@@ -635,37 +635,37 @@
             "name": "Vinha do Conde (White)",
             "description": "White wine, Alentejo 75cl",
             "price": "€14.95",
-            "image": "/menu/wine-white.png"
+            "image": "/menu/wine-white.webp"
           },
           {
             "name": "Catarina (White)",
             "description": "White wine, Península de Setúbal 75cl",
             "price": "€15.95",
-            "image": "/menu/wine-catarina.png"
+            "image": "/menu/wine-catarina.webp"
           },
           {
             "name": "Conde Vimioso Sommelier Edition",
             "description": "White wine, Tejo/Lisboa 75cl",
             "price": "€19.00",
-            "image": "/menu/wine-conde.png"
+            "image": "/menu/wine-conde.webp"
           },
           {
             "name": "House Wine (Glass)",
             "description": "Glass of wine, Alentejo",
             "price": "€3.95",
-            "image": "/menu/wine-glass.png"
+            "image": "/menu/wine-glass.webp"
           },
           {
             "name": "Vinho Verde",
             "description": "Muralha de Monção or Quinta da Calçada 75cl",
             "price": "~€12",
-            "image": "/menu/wine-verde.png"
+            "image": "/menu/wine-verde.webp"
           },
           {
             "name": "Sangria",
             "description": "Red or white wine sangria",
             "price": "~€8",
-            "image": "/menu/wine-sangria.png"
+            "image": "/menu/wine-sangria.webp"
           }
         ]
       },
@@ -677,37 +677,37 @@
             "name": "Porto Tónico",
             "description": "Port wine with tonic",
             "price": "€5.95",
-            "image": "/menu/spirit-porto-tonico.png"
+            "image": "/menu/spirit-porto-tonico.webp"
           },
           {
             "name": "Gin Hayman's",
             "description": "Gin Hayman's with citrus",
             "price": "€6.50",
-            "image": "/menu/spirit-gin.png"
+            "image": "/menu/spirit-gin.webp"
           },
           {
             "name": "Gin Hendrick's",
             "description": "Premium gin",
             "price": "€9.50",
-            "image": "/menu/spirit-hendricks.png"
+            "image": "/menu/spirit-hendricks.webp"
           },
           {
             "name": "Ginja de Óbidos",
             "description": "Traditional Portuguese sour cherry liqueur",
             "price": "€3.90",
-            "image": "/menu/spirit-ginja.png"
+            "image": "/menu/spirit-ginja.webp"
           },
           {
             "name": "Licor Beirão",
             "description": "Iconic Portuguese herbal liqueur",
             "price": "€4.90",
-            "image": "/menu/spirit-beirao.png"
+            "image": "/menu/spirit-beirao.webp"
           },
           {
             "name": "Porto Monge Tawny",
             "description": "Port wine",
             "price": "€3.90",
-            "image": "/menu/spirit-porto.png"
+            "image": "/menu/spirit-porto.webp"
           }
         ]
       }
@@ -716,35 +716,35 @@
   "galleryStrip": {
     "images": [
       {
-        "src": "/gallery/1.jpg",
+        "src": "/gallery/1.webp",
         "alt": "Gutsy artisan burger with São Jorge cheese"
       },
       {
-        "src": "/gallery/2.jpg",
+        "src": "/gallery/2.webp",
         "alt": "Cocktails at Gutsy"
       },
       {
-        "src": "/gallery/3.jpg",
+        "src": "/gallery/3.webp",
         "alt": "Inside the Gutsy restaurant in Carcavelos"
       },
       {
-        "src": "/gallery/4.jpg",
+        "src": "/gallery/4.webp",
         "alt": "Outdoor terrace seating"
       },
       {
-        "src": "/gallery/5.jpg",
+        "src": "/gallery/5.webp",
         "alt": "Artisan burger preparation"
       },
       {
-        "src": "/gallery/6.jpg",
+        "src": "/gallery/6.webp",
         "alt": "Gutsy burger close-up"
       },
       {
-        "src": "/gallery/7.jpg",
+        "src": "/gallery/7.webp",
         "alt": "Aperol Spritz and cocktails"
       },
       {
-        "src": "/gallery/8.jpg",
+        "src": "/gallery/8.webp",
         "alt": "The team at Gutsy"
       }
     ]

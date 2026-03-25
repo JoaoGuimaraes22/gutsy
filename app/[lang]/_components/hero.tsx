@@ -94,7 +94,7 @@ export default function Hero({ dict }: { dict: HeroDict }) {
           }}
         >
           <Image
-            src="/hero/hero-black.jpg"
+            src="/hero/hero-black.webp"
             alt="Hero image of a delicious burger with smoke"
             fill
             sizes="100vw"
@@ -171,7 +171,7 @@ export default function Hero({ dict }: { dict: HeroDict }) {
           }
         >
           <Image
-            src="/gutsy-logo.png"
+            src="/gutsy-logo.webp"
             alt="Gutsy Burgers"
             width={300}
             height={100}

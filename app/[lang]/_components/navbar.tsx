@@ -73,7 +73,7 @@ export default function Navbar({ lang, dict }: NavbarProps) {
         <div className="mx-auto flex h-full max-w-7xl items-center justify-between px-4 md:px-8">
           <a href={`/${lang}#home`} className="shrink-0">
             <Image
-              src="/gutsy-logo.png"
+              src="/gutsy-logo.webp"
               alt={dict.brand}
               width={120}
               height={32}

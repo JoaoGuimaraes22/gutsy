@@ -33,7 +33,7 @@ export default function Footer({ dict }: { dict: FooterDictWithBrand }) {
         <div className="mb-12 flex flex-col gap-4 border-b border-zinc-800 pb-12 sm:flex-row sm:items-end sm:justify-between">
           <div>
             <Image
-              src="/gutsy-logo.png"
+              src="/gutsy-logo.webp"
               alt={dict.brand}
               width={160}
               height={40}
