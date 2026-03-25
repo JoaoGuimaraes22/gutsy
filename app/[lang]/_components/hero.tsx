@@ -94,7 +94,7 @@ export default function Hero({ dict }: { dict: HeroDict }) {
           }}
         >
           <Image
-            src="/hero-black.jpg"
+            src="/hero/hero-black.jpg"
             alt="Hero image of a delicious burger with smoke"
             fill
             sizes="100vw"
