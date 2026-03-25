@@ -438,3 +438,102 @@ Save as: `/menu/spirit-beirao.jpg`
 > Professional drink photography of a small port wine glass filled with tawny port, deep amber-mahogany color. Classic, elegant presentation. Shot from a 45-degree angle on a dark bar counter, moody ambient lighting with warm highlights, shallow depth of field. Photorealistic, editorial style. No text, no watermarks, no hands. 700x400 landscape format.
 
 Save as: `/menu/spirit-porto.jpg`
+
+---
+
+## Hero & About (3 images)
+
+### hero-burguer.jpg
+- **Used in**: Hero section (full background)
+- **Display size**: Full viewport width, `sizes="100vw"`, fill mode, object-contain
+- **Alt text**: Hero background
+
+> Wide-angle professional food photography of a massive artisan smash burger, shot dramatically from a low angle. Double beef patty with melted cheddar, caramelized onions, arugula and tomato on a toasted seeded bun. Juicy, dripping with sauce. Dark moody background with warm golden side lighting creating dramatic shadows. Smoke and steam rising. Ultra-detailed, photorealistic, high-end advertising food photography. No text, no watermarks, no hands. 1920x1080 landscape format.
+
+Save as: `public/hero-burguer.jpg`
+
+### about.jpg
+- **Used in**: About section (side image)
+- **Display size**: `sizes="(max-width: 1024px) 100vw, 50vw"`, aspect-4/3 mobile, aspect-square desktop
+- **Alt text**: About the restaurant
+
+> Professional brand photography of a casual artisan burger restaurant interior in Carcavelos, Portugal. Warm ambient lighting, exposed brick or wood accents, a cozy outdoor terrace visible through an open door. Tables set with artisan burgers and cocktails. Relaxed, inviting atmosphere. A few happy customers visible in the background, blurred. Golden hour light streaming in. Editorial lifestyle photography, warm tones, shallow depth of field. No text, no watermarks. 1200x900 landscape (4:3) format.
+
+Save as: `public/about.jpg`
+
+### gutsy-logo.png
+- **Used in**: Navbar, Hero, Footer
+- **Display size**: Various (h-10 to h-28)
+- **Note**: This is a logo — design manually or request from client. Skip AI generation.
+
+---
+
+## Gallery Strip (8 images)
+
+Display size: 320x224 (approximately 4:3 landscape), shown in horizontal scrolling strip with rounded corners.
+
+**Style note**: Per user direction — gutsy, bold, people-focused. Mostly different people eating burgers or drinking cocktails. Warm, lively, candid energy. Think "friends having the best night out at a burger joint."
+
+### 1.jpg
+- **Used in**: Gallery strip
+- **Alt text**: Artisan burger with São Jorge cheese
+
+> Gutsy candid lifestyle photography. A young woman mid-bite into a massive artisan smash burger, melted cheese pulling, eyes closed in satisfaction. She's sitting at a rustic restaurant table with warm Edison bulb lighting overhead. Sauce on her fingers, genuine joy on her face. Shallow depth of field, warm golden tones, editorial brand photography with a raw, unpolished energy. Photorealistic, high-end. No text, no watermarks. 800x600 landscape (4:3) format.
+
+Save as: `public/gallery/1.jpg`
+
+### 2.jpg
+- **Used in**: Gallery strip
+- **Alt text**: Cocktails at the restaurant
+
+> Gutsy lifestyle photography. Two friends clinking colorful cocktails — an Aperol Spritz and a mojito — across a table scattered with burger wrappers and fries. Warm bar lighting, shallow depth of field, focus on the glasses with blurred laughing faces behind them. Condensation on the glasses, ice glistening. Evening atmosphere, vibrant and social. Photorealistic, editorial style. No text, no watermarks. 800x600 landscape (4:3) format.
+
+Save as: `public/gallery/2.jpg`
+
+### 3.jpg
+- **Used in**: Gallery strip
+- **Alt text**: Inside the restaurant in Carcavelos
+
+> Gutsy lifestyle photography. A group of friends at a long wooden table inside a casual burger restaurant, sharing plates of burgers and cocktails. One person is reaching for fries, another is laughing. Warm pendant lighting, exposed materials, relaxed Portuguese restaurant vibe. Wide-angle, environmental shot capturing the energy of the space. Photorealistic, editorial brand photography. No text, no watermarks. 800x600 landscape (4:3) format.
+
+Save as: `public/gallery/3.jpg`
+
+### 4.jpg
+- **Used in**: Gallery strip
+- **Alt text**: Outdoor terrace seating
+
+> Gutsy lifestyle photography. A couple enjoying artisan burgers and cocktails on a sunny outdoor terrace in a Portuguese coastal town. Caipirinhas on the table, half-eaten burgers, napkins. Mediterranean-style setting with plants and string lights. Golden afternoon light, relaxed body language. Shallow depth of field, warm tones, candid feel. Photorealistic, editorial brand photography. No text, no watermarks. 800x600 landscape (4:3) format.
+
+Save as: `public/gallery/4.jpg`
+
+### 5.jpg
+- **Used in**: Gallery strip
+- **Alt text**: Artisan burger preparation
+
+> Gutsy behind-the-scenes photography. Close-up of hands pressing a beef patty onto a hot flat-top grill, sizzle and steam rising, smash burger technique in action. Melted cheese bubbling on another patty nearby. Dark moody kitchen lighting with warm highlights on the grill surface. Raw, energetic, action shot. Shallow depth of field, photorealistic, editorial food photography. No text, no watermarks. 800x600 landscape (4:3) format.
+
+Save as: `public/gallery/5.jpg`
+
+### 6.jpg
+- **Used in**: Gallery strip
+- **Alt text**: Burger close-up
+
+> Gutsy candid photography. A bearded man holding a loaded artisan burger with both hands, about to take a huge bite. The burger is stacked — double patty, bacon, melted cheese dripping, arugula, tomato. Shot from slightly below, dramatic shallow depth of field, warm restaurant lighting. His expression is excited, hungry, real. Photorealistic, editorial brand photography with bold energy. No text, no watermarks. 800x600 landscape (4:3) format.
+
+Save as: `public/gallery/6.jpg`
+
+### 7.jpg
+- **Used in**: Gallery strip
+- **Alt text**: Aperol Spritz and cocktails
+
+> Gutsy lifestyle photography. A woman's hand reaching for a bright orange Aperol Spritz on a sun-drenched terrace table. Other cocktails visible — a negroni, a strawberry margarita. Burger plates in the background. Late afternoon golden light, Portuguese outdoor setting. Vibrant colors, shallow depth of field focused on the Aperol Spritz glass. Photorealistic, editorial brand photography. No text, no watermarks. 800x600 landscape (4:3) format.
+
+Save as: `public/gallery/7.jpg`
+
+### 8.jpg
+- **Used in**: Gallery strip
+- **Alt text**: The team at the restaurant
+
+> Gutsy team portrait. Three to four restaurant staff members standing behind a counter or grill, wearing aprons, smiling confidently at the camera. One holding a spatula, another holding a cocktail shaker. Warm kitchen lighting behind them, casual and proud body language. Environmental portrait, medium shot from waist up. Warm tones, shallow depth of field on background. Photorealistic, editorial brand photography. No text, no watermarks. 800x600 landscape (4:3) format.
+
+Save as: `public/gallery/8.jpg`

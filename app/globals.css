@@ -70,10 +70,6 @@ body {
 .gallery-track {
   animation: gallery-scroll 40s linear infinite;
 }
-.gallery-track:hover {
-  animation-play-state: paused;
-}
-
 /* ── Reviews animations ──────────────────────────────────────── */
 @keyframes testimonials-scroll-up {
   from { transform: translateY(0); }
