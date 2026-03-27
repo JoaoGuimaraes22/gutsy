@@ -56,6 +56,7 @@ export default function Reservation({ dict }: { dict: ReservationDict }) {
     setContact("");
     setNote("");
     document.body.style.overflow = "";
+    window.dispatchEvent(new Event("close-reservation"));
   }, []);
 
   useEffect(() => {
