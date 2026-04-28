@@ -903,5 +903,115 @@
       "5 pessoas",
       "6+ pessoas"
     ]
+  },
+  "socials": {
+    "title": "O teu futuro nas redes sociais",
+    "subtitle": "Uma prévia de como o teu Instagram, Facebook e LinkedIn ficariam no próximo mês.",
+    "labels": {
+      "instagram": "Instagram",
+      "facebook": "Facebook",
+      "linkedin": "LinkedIn"
+    },
+    "ui": {
+      "facebookSubtitle": "Patrocinado · Público",
+      "linkedinSubtitle": "Empresa · há 1 dia",
+      "carouselPrevious": "Slide anterior",
+      "carouselNext": "Slide seguinte",
+      "carouselGoTo": "Ir para o slide {n}"
+    },
+    "posts": [
+      {
+        "id": "01-weekly-special",
+        "contentType": "weekly-special",
+        "contentLabel": "Special: Artisan Burgers",
+        "media": {
+          "type": "data-carousel",
+          "slides": 5
+        },
+        "images": [
+          "/socials/01-weekly-special/instagram-1.jpg",
+          "/socials/01-weekly-special/instagram-2.jpg",
+          "/socials/01-weekly-special/instagram-3.jpg",
+          "/socials/01-weekly-special/instagram-4.jpg",
+          "/socials/01-weekly-special/instagram-5.jpg"
+        ],
+        "captions": {
+          "instagram": "100% carne bovina. Queijo São Jorge a derreter devagar. Pão acabado de fazer. 🍔\n\nNada de fórmulas industriais. Nada de atalhos.\n\nCada hambúrguer da Gutsy é montado à mão, com ingredientes locais escolhidos um a um — porque a diferença sente-se logo à primeira trinca.\n\nEsta semana, traz a malta cá a Carcavelos e prova porque somos a hamburgueria preferida do bairro. Acompanha com um cocktail bem feito e o jantar fica completo. 🍸\n\nLink in bio 👆\n\n#GutsyHambúrguerArtesanalCocktails #HamburgerRestaurant #Carcavelos #Portugal #NegóciosLocais #Hambúrguer #HamburguerArtesanal #ComidaArtesanal #BurgerLovers #QueijoSãoJorge #Cocktails #JantarComAmigos #LisboaFood #CarcavelosEats #PortugalFood",
+          "facebook": "Sabes o que faz um hambúrguer ser mesmo artesanal? 🍔\n\nNão é o pão bonito nem o nome no menu. É a carne — 100% bovina, sem misturas estranhas. É o queijo São Jorge a derreter por cima, com aquele sabor a ilha que nenhum cheddar industrial consegue imitar. São os ingredientes locais, escolhidos a dedo, montados à mão um a um.\n\nEsta semana, vem provar a diferença aqui em Carcavelos. Acompanha com um cocktail bem servido e fica para o jantar todo. 🍸\n\nQual é o teu hambúrguer preferido cá na Gutsy? Conta-nos nos comentários! 👇\n\nhttps://gutsy.vercel.app\n\n#GutsyHambúrguerArtesanalCocktails #Carcavelos #NegóciosLocais"
+        }
+      },
+      {
+        "id": "02-service-spotlight",
+        "contentType": "service-spotlight",
+        "contentLabel": "Artisan Burgers",
+        "media": {
+          "type": "data-carousel",
+          "slides": 5
+        },
+        "images": [
+          "/socials/02-service-spotlight/instagram-1.jpg",
+          "/socials/02-service-spotlight/instagram-2.jpg",
+          "/socials/02-service-spotlight/instagram-3.jpg",
+          "/socials/02-service-spotlight/instagram-4.jpg",
+          "/socials/02-service-spotlight/instagram-5.jpg"
+        ],
+        "captions": {
+          "instagram": "A primeira dentada num Gutsy não te deixa indiferente. 🍔\n\nA carne 100% bovino é trabalhada à mão, todos os dias na casa. Sem máquinas a empurrar produto em série, sem atalhos para poupar minutos.\n\nDepois entra o queijo São Jorge — curado, com aquele sabor intenso que só vem dos Açores — e o pão escolhido para aguentar tudo até ao fim.\n\nNão é só um hambúrguer. É meia hora a desligar do mundo, com cocktails a acompanhar e a malta à volta da mesa.\n\nEm Carcavelos, é isto que somos: artesanal, sem pressas, feito com gosto.\n\nLink in bio 👆\n\n#GutsyHambúrguerArtesanalCocktails #HamburgerRestaurant #Carcavelos #Portugal #NegóciosLocais #HamburguerArtesanal #BurgerLovers #SãoJorge #ComidaPortuguesa #Cascais #BurgerTime #FoodieLisboa #ArtisanBurger #Hamburguer",
+          "facebook": "Já provaste um hambúrguer onde a carne tem mesmo sabor a carne? 🍔\n\nNo Gutsy, não fazemos nada em série. Cada hambúrguer é montado à mão, com carne 100% bovino fresca, queijo São Jorge curado e ingredientes locais escolhidos pelo sabor — não pelo preço por quilo.\n\nA diferença sente-se logo à primeira dentada. O São Jorge derrete devagar, a carne fica suculenta, o pão aguenta tudo até ao último pedaço. 🧀\n\nEm Carcavelos, é assim que entendemos o nosso trabalho: comida boa, feita com calma, para se partilhar com amigos e família — de preferência com um cocktail ao lado. 🍻\n\nQual é o teu pedido habitual cá em casa?\n\n#GutsyHambúrguerArtesanalCocktails #Carcavelos #NegóciosLocais\n\nhttps://gutsy.vercel.app"
+        }
+      },
+      {
+        "id": "03-tip-education",
+        "contentType": "tip-education",
+        "contentLabel": "Tip #1",
+        "media": {
+          "type": "carousel",
+          "slides": 3
+        },
+        "images": [
+          "/socials/03-tip-education/instagram-1.jpg",
+          "/socials/03-tip-education/instagram-2.jpg",
+          "/socials/03-tip-education/instagram-3.jpg"
+        ],
+        "captions": {
+          "instagram": "Pediste o hambúrguer. E agora o cocktail? 🍹\n\nA regra que ninguém te diz: quanto mais intenso o hambúrguer, mais cítrico o cocktail.\n\n🍔 Hambúrguer à Parmegiana? Mojito ou Caipirinha — o limão limpa o paladar entre dentadas.\n\n🍔 Grilled Burger com molho de cogumelos? Aperol Spritz — a amargura corta a cremosidade.\n\n🍔 Codfish Burger? Margarita Sour — acidez suave que valoriza o peixe.\n\n🍔 Gutsy Special? Negroni — um hambúrguer corajoso pede um cocktail com carácter.\n\nA regra simples: se o prato é cremoso, vai de cítrico. Se é grelhado e seco, algo mais doce ou tropical.\n\nEm Carcavelos, à tua espera. 🌅\n\nLink in bio 👆\n\n#GutsyHambúrguerArtesanalCocktails #HamburgerRestaurant #Carcavelos #Portugal #NegóciosLocais #HambúrguerArtesanal #CocktailsCarcavelos #BurgerLovers #FoodPairing #LisboaEats #CarcavelosLife #GastronomiaPortuguesa",
+          "facebook": "Sabias que o teu hambúrguer artesanal sabe melhor se esperares 60 segundos antes da primeira dentada? 🍔\n\nQuando a carne sai da chapa, está em pleno trabalho — os sucos ainda estão a redistribuir-se pela peça. Se cortas ao meio logo de seguida, metade do sabor vai parar ao prato em vez da tua boca.\n\nA regra cá da casa: deixa-o respirar um instante. Levanta-o inteiro, dá a primeira dentada, e só depois é que vês a diferença — a carne fica mais suculenta, o pão absorve os sucos certos, e cada mordida puxa pela próxima.\n\nOs nossos hambúrgueres em Carcavelos são feitos para isto. Carne fresca, pão artesanal, ingredientes que merecem esse minuto. 🌅\n\nQual é o teu favorito da nossa carta? 👇\n\nhttps://gutsy.vercel.app\n\n#GutsyHambúrguerArtesanalCocktails #Carcavelos #NegóciosLocais"
+        }
+      },
+      {
+        "id": "04-tip-education",
+        "contentType": "tip-education",
+        "contentLabel": "Tip #2",
+        "media": {
+          "type": "data-carousel",
+          "slides": 5
+        },
+        "images": [
+          "/socials/04-tip-education/instagram-1.jpg",
+          "/socials/04-tip-education/instagram-2.jpg",
+          "/socials/04-tip-education/instagram-3.jpg"
+        ],
+        "captions": {
+          "instagram": "Estás a comer hambúrgueres mal. 🍔\n\nA maioria das pessoas dá uma dentada no topo, outra no meio, outra no fundo — e nunca prova tudo junto.\n\nA dica de quem trabalha em cozinha todos os dias: antes de morderes, pressiona suavemente o pão de cima para baixo. Os sabores assentam, o queijo agarra-se à carne, os molhos espalham-se de forma uniforme.\n\nDepois? Morde com vontade. Atravessas todas as camadas de uma só vez — pão, carne, queijo, molho, vegetais.\n\nCada hambúrguer no Gutsy é montado a pensar nesta dentada perfeita. Por isso é que a ordem das camadas importa, e por isso é que o pão é fofo o suficiente para ceder sem desfazer.\n\nVem provar a diferença em Carcavelos.\n\nLink in bio 👆\n\n#GutsyHambúrguerArtesanalCocktails #HamburgerRestaurant #Carcavelos #Portugal #NegóciosLocais #HambúrguerArtesanal #BurgerLovers #ComidaArtesanal #CarcavelosFood #BurgerTime #HamburguerCaseiro #FoodieLisboa",
+          "facebook": "Sabias que o cocktail certo pode mudar completamente a forma como saboreias o teu hambúrguer? 🍔🍹\n\nDica simples: hambúrgueres intensos — como o Moulin Rouge ou um grelhado com molho de cogumelos — pedem cocktails cítricos e refrescantes. Um Mojito ou uma Caipirinha limpam o palato entre dentadas e fazem brilhar cada sabor da carne.\n\nJá um Negroni ou um Pisco Sour combinam melhor com um hambúrguer mais clássico, onde o sabor da carne é o protagonista. O amargo do Negroni equilibra a gordura sem competir com ela.\n\nDa próxima vez que vieres ao Gutsy, em Carcavelos, experimenta uma destas combinações. Qual é o teu par favorito? 💬\n\nhttps://gutsy.vercel.app\n\n#GutsyHambúrguerArtesanalCocktails #Carcavelos #NegóciosLocais"
+        }
+      },
+      {
+        "id": "05-review-highlight",
+        "contentType": "review-highlight",
+        "contentLabel": "Review by Lila B.",
+        "media": {
+          "type": "single",
+          "slides": 1
+        },
+        "images": [
+          "/socials/05-review-highlight/instagram.jpg"
+        ],
+        "captions": {
+          "instagram": "\"🔝🔝🔝🔝…\"\n\nFoi tudo o que a Lila escreveu. Cinco estrelas. Zero palavras.\n\nÀs vezes é assim que sabemos que acertámos no ponto da carne, no toque do molho, no copo bem servido. Quando o hambúrguer fala mais alto que qualquer descrição.\n\nObrigado, Lila — esses quatro emojis valem mais que mil reviews. 🍔🔥\n\nPróxima ronda em Carcavelos? Já sabes onde nos encontrar.\n\nLink na bio 👆\n\n#GutsyHambúrguerArtesanalCocktails #HamburgerRestaurant #Carcavelos #Portugal #NegóciosLocais #Hambúrguer #HambúrguerArtesanal #BurgerLover #CarcavelosFood #Cocktails #FoodieLisboa #Cascais #5Estrelas #BurgerTime #LisboaFood",
+          "facebook": "A Lila deixou-nos a melhor review possível. 🔝🔝🔝🔝…\n\nQuatro emojis. Cinco estrelas. Nem uma palavra a mais.\n\nE sabes que mais? É assim mesmo que gostamos. Quando o hambúrguer artesanal fala por si, quando o cocktail acompanha sem precisar de explicações, quando os amigos à mesa só conseguem fazer um polegar para cima entre dentadas. 🍔\n\nObrigado, Lila — esta foi a review mais sincera que recebemos esta semana.\n\nE tu, qual é o teu hambúrguer preferido da nossa carta? Conta-nos nos comentários — adoramos saber o que vos faz voltar a Carcavelos. 👇\n\n#GutsyCarcavelos #HambúrguerArtesanal #Carcavelos\n\nhttps://gutsy.vercel.app"
+        }
+      }
+    ]
   }
 }
